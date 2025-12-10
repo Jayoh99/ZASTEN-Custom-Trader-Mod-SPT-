@@ -1,0 +1,2352 @@
+{
+  "items": [
+    {
+      "_comment": "5.45x39mm BP gs",
+      "_id": "672000010000000000000001",
+      "_tpl": "56dfef82d2720bbd668b4567",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 300 }
+    },
+    {
+     "_comment": "7.62x51mm M993",
+     "_id": "672000010000000000000040",
+     "_tpl": "5efb0c1bd79ff02a1f5e68d9",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": { "UnlimitedCount": false,"StackObjectsCount": 66 }
+    },
+    {
+     "_comment": "9x39mm SPP gs",
+     "_id": "67200001000000000000003f",
+     "_tpl": "5c0d668f86f7747ccb7f13b2",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": { "UnlimitedCount": false,"StackObjectsCount": 300  }
+    },
+    {
+      "_comment": "9x39mm BP gs",
+     "_id": "67200001000000000000003e",
+     "_tpl": "5c0d688c86f77413ae3407b2",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": { "UnlimitedCount": false, "StackObjectsCount": 200}
+   },
+   {
+      "_comment": ".50 AE Copper Solid",
+      "_id": "67200001000000000000003d",
+      "_tpl": "66a0d1e0ed648d72fe064d06",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {  "UnlimitedCount": false, "StackObjectsCount": 300 }
+    },
+    {
+      "_comment": "9x19mm RIP",
+      "_id": "67200001000000000000003c",
+      "_tpl": "5c0d56a986f774449d5de529",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 300 }
+    },
+    {
+      "_comment": "5.56x45mm M855A1",
+      "_id": "672000010000000000000002",
+      "_tpl": "54527ac44bdc2d36668b4567",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 300 }
+    },
+    {
+      "_comment": "7.62x51mm M61",
+      "_id": "672000010000000000000003",
+      "_tpl": "5a6086ea4f39f99cd479502f",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 100 }
+    },
+    {
+      "_comment": "4.6x30mm AP SX",
+      "_id": "672000010000000000000004",
+      "_tpl": "5ba26835d4351e0035628ff5",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 300 }
+    },
+    {
+     "_comment": "9x19mm PBP gzh",
+     "_id": "67200001000000000000003b",
+     "_tpl": "5efb0da7a29a85116f6ea05f",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": {"UnlimitedCount": false, "StackObjectsCount": 300 }
+     },
+
+     {
+      "_comment": "5.45x39mm PPBS gs Igolnik",
+      "_id": "672000010000000000000005",
+      "_tpl": "5c0d5e4486f77478390952fe",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 250 }
+    },
+    {
+      "_comment": "Zenit RK-2 Tactical Foregrip",
+      "_id": "672000010000000000000041",
+      "_tpl": "5c1bc5af2e221602b412949b",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 10 }
+   },
+   {
+     "_comment": "AR-15 HK Ergo PSG-1 Style Pistol Grip",
+     "_id": "672000010000000000000042",
+     "_tpl": "5d025cc1d7ad1a53845279ef",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": { "UnlimitedCount": false,"StackObjectsCount": 8 }
+   },
+   {
+     "_comment": "SIG Sauer BRAVO4 4x30 Scope",
+     "_id": "672000010000000000000043",
+     "_tpl": "57adff4f24597737f373b6e6",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": {"UnlimitedCount": false,"StackObjectsCount": 10 }
+    },
+    {
+     "_comment": "Leupold Mark 4 HAMR 4x24 DeltaPoint Hybrid Scope",
+     "_id": "672000010000000000000044",
+     "_tpl": "544a3a774bdc2d3a388b4567",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": {"UnlimitedCount": false, "StackObjectsCount": 10 }
+    },
+    {
+     "_comment": "Leupold DeltaPoint Reflex Sight",
+     "_id": "672000010000000000000045",
+     "_tpl": "58d268fc86f774111273f8c2",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": {"UnlimitedCount": false, "StackObjectsCount": 10 }
+     },
+    {
+     "_comment": "SA58/FAL X Products X-FAL 50-Round Drum Magazine",
+     "_id": "67200001000000000000004b",
+     "_tpl": "5b7bef9c5acfc43d102852ec",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": {"UnlimitedCount": false, "StackObjectsCount": 8}
+     },
+     {
+     "_comment": "Glock 9x19 SGM Tactical 50-Round Drum Magazine",
+     "_id": "67200001000000000000004c",
+     "_tpl": "5a718f958dc32e00094b97e7",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": {"UnlimitedCount": false,"StackObjectsCount": 8 }
+     },
+     {
+     "_comment": "AR-15 5.56x45 Magpul PMAG D-60 STANAG 60-Round Magazine",
+     "_id": "67200001000000000000004d",
+     "_tpl": "59c1383d86f774290a37e0ca",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": { "UnlimitedCount": false, "StackObjectsCount": 6 }
+     },
+     {
+     "_comment": "Schmidt & Bender PM II 1-8x24 30mm Riflescope",
+     "_id": "672000010000000000000046",
+     "_tpl": "617151c1d92c473c770214ab",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": {"UnlimitedCount": false,"StackObjectsCount": 10 }
+    },
+    {
+     "_comment": "AR-15 Strike Industries Advanced Receiver Extension (Anodized Red)",
+     "_id": "672000010000000000000047",
+     "_tpl": "5c793fc42e221600114ca25d",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": {"UnlimitedCount": false,"StackObjectsCount": 10 }
+    },
+    {
+     "_comment": "AR-15 Strike Industries Advanced Receiver Extension Buffer Tube",
+     "_id": "672000010000000000000049",
+     "_tpl": "5c793fb92e221644f31bfb64",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": {"UnlimitedCount": false,"StackObjectsCount": 15}
+     },
+     {
+     "_comment": "AAC 762-SDN-6 Multi-Caliber Sound Suppressor",
+     "_id": "67200001000000000000004a",
+     "_tpl": "5a34fe59c4a282000b1521a2",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": {"UnlimitedCount": false, "StackObjectsCount": 10 }
+     },
+     {
+      "_comment": "Red Rebel Ice Pick",
+      "_id": "672000010000000000000006",
+      "_tpl": "5c0126f40db834002a125382",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+    },
+    {
+      "_comment": "TerraGroup Labs Keycard",
+      "_id": "672000010000000000000007",
+      "_tpl": "5c94bbff86f7747ee735c08f",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 3 }
+    },
+    {
+     "_comment": "Keycard Holder Case",
+     "_id": "672000010000000000000158",
+     "_tpl": "619cbf9e0a7c3a1a2731940a",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": {"UnlimitedCount": false, "StackObjectsCount": 5 }
+    },
+    {
+      "_comment": "Dorm Room 314 Marked Key",
+      "_id": "672000010000000000000008",
+      "_tpl": "5780cf7f2459777de4559322",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 3 }
+    },
+    {
+      "_comment": "Object #21WS Keycard",
+      "_id": "672000010000000000000009",
+      "_tpl": "5e42c83786f7742a021fdf3c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 5 }
+    },
+    {
+      "_comment": "Health Resort Office Key (Blue Tape)",
+      "_id": "67200001000000000000000a",
+      "_tpl": "5eff09cd30a7dc22fd1ddfed",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 5 }
+    },
+    {
+      "_comment": "Shturman's Stash Key",
+      "_id": "67200001000000000000000b",
+      "_tpl": "5d08d21286f774736e7c94c3",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 3 }
+    },
+    {
+      "_comment": "RB-ST Key",
+      "_id": "67200001000000000000000c",
+      "_tpl": "5d9f1fa686f774726974a992",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false , "StackObjectsCount": 3 }
+    },
+    {
+      "_comment": "M.U.L.E. Stim",
+      "_id": "67200001000000000000000d",
+      "_tpl": "5ed51652f6c34d2cc26336a1",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 7 }
+    },
+    {
+      "_comment": "SJ6 Stim",
+      "_id": "67200001000000000000000e",
+      "_tpl": "5c0e531d86f7747fa23f4d42",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 7 }
+    },
+    {
+      "_comment": "Obdolbos Stim",
+      "_id": "67200001000000000000000f",
+      "_tpl": "5ed5166ad380ab312177c100",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 5 }
+    },
+    {
+      "_comment": "eTG-change Stim",
+      "_id": "672000010000000000000010",
+      "_tpl": "5c0e534186f7747fa1419867",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 5 }
+    },
+    {
+      "_comment": "THICC Item Case",
+      "_id": "672000010000000000000011",
+      "_tpl": "5c0a840b86f7742ffa4f2482",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+    },
+    {
+      "_comment": "THICC Weapon Case",
+      "_id": "672000010000000000000012",
+      "_tpl": "5b6d9ce188a4501afc1b2b25",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+    },
+
+    {
+      "_comment": "Custom Desert Eagle L6 .50 AE Preset",
+      "_id": "672000010000000000000025",
+      "_tpl": "669fa39b48fc9f8db6035a0c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+    },
+    {
+      "_comment": "Deagle Barrel",
+      "_id": "672000010000000000000026",
+      "_tpl": "669fa47da0bab4e8510d9526",
+      "parentId": "672000010000000000000025",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_comment": "Walther MRS Sight",
+      "_id": "672000010000000000000027",
+      "_tpl": "570fd721d2720bc5458b4596",
+      "parentId": "672000010000000000000026",
+      "slotId": "mod_scope"
+    },
+    {
+      "_comment": "Deagle Slide",
+      "_id": "672000010000000000000028",
+      "_tpl": "669fa4d97a09bc295603b496",
+      "parentId": "672000010000000000000025",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_comment": "Hogue Grip",
+      "_id": "672000010000000000000029",
+      "_tpl": "668fe5d42a0f85eea407cc16",
+      "parentId": "672000010000000000000025",
+      "slotId": "mod_pistolgrip"
+    },
+    {
+      "_comment": "Deagle Magazine",
+      "_id": "67200001000000000000002a",
+      "_tpl": "668fe5c5f35310705d02b696",
+      "parentId": "672000010000000000000025",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_comment": "GTL21 Flashlight",
+      "_id": "67200001000000000000002b",
+      "_tpl": "5a800961159bd4315e3a1657",
+      "parentId": "672000010000000000000025",
+      "slotId": "mod_tactical"
+    },
+    {
+     "_comment": ".50 AE FMJ",
+     "_id": "672000010000000000000048",
+     "_tpl": "668fe62ac62660a5d8071446",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": {"UnlimitedCount": false, "StackObjectsCount": 100 }
+    },
+    {
+      "_id": "672000010000000000000030",
+      "_tpl": "5a1eaa87fcdbcb001865f75e",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 2 }
+    },
+    {
+      "_id": "672000010000000000000031",
+      "_tpl": "5d1b5e94d7ad1a2b865a96b0",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 2 }
+    },
+    {
+      "_id": "672000010000000000000032",
+      "_tpl": "5c0558060db834001b735271",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 2 }
+    },
+    {
+      "_id": "672000010000000000000033",
+      "_tpl": "5b3b99475acfc432ff4dcbee",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 10 }
+    },
+    {
+      "_id": "672000010000000000000034",
+      "_tpl": "59f8a37386f7747af3328f06",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 10 }
+    },
+    {
+      "_id": "672000010000000000000035",
+      "_tpl": "5c1cd46f2e22164bef5cfedb",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 10 }
+    },
+    {
+      "_id": "672000010000000000000036",
+      "_tpl": "5b057b4f5acfc4771e1bd3e9",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 5 }
+    },
+    {
+      "_id": "672000010000000000000037",
+      "_tpl": "615d8f8567085e45ef1409ca",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 4 }
+    },
+    {
+      "_id": "672000010000000000000038",
+      "_tpl": "55d6190f4bdc2d87028b4567",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 4 }
+    },
+    {
+      "_id": "672000010000000000000039",
+      "_tpl": "6761765f1f08ed5e8800b7a6",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 4 }
+    },
+    {
+     "_comment": "Armasight N-15 Night Vision Goggles",
+     "_id": "672000010000000000000057",
+     "_tpl": "5c066e3a0db834001b7353f0",
+     "parentId": "hideout",
+    "slotId": "hideout",
+    "upd": { "UnlimitedCount": false, "StackObjectsCount": 5 }
+    },
+    {
+      "_comment": "Labrys Access Keycard",
+      "_id": "67200001000000000000003a",
+      "_tpl": "679b9819a2f2dd4da9023512",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 3 }
+    },
+    {
+     "_comment": "Keytool",
+     "_id": "672000010000000000000058",
+     "_tpl": "59fafd4b86f7745ca07e1232",
+     "parentId": "hideout",
+     "slotId": "hideout",
+     "upd": { "UnlimitedCount": false, "StackObjectsCount": 3 }
+     },
+     {
+  "_comment": "S I C C Organizational Pouch",
+  "_id": "672000010000000000000059",
+  "_tpl": "5d235bb686f77443f4331278",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": { "UnlimitedCount": false, "StackObjectsCount": 2 }
+},
+  {
+  "_comment": "Item Case",
+  "_id": "67200001000000000000005a",
+  "_tpl": "59fb042886f7746c5005a7b2",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+},
+{
+  "_comment": "Custom Glock 17 9x19 Preset ",
+  "_id": "67200001000000000000004e",
+  "_tpl": "5a7ae0c351dfba0017554310",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+
+{
+  "_comment": "ZEV Tech HEX RMR Slide",
+  "_id": "67200001000000000000004f",
+  "_tpl": "5a71e22f8dc32e00094b97f4",
+  "parentId": "67200001000000000000004e",
+  "slotId": "mod_reciever"
+},
+
+{
+  "_comment": "Glock 17 114mm Barrel",
+  "_id": "672000010000000000000051",
+  "_tpl": "5a6b5f868dc32e000a311389",
+  "parentId": "67200001000000000000004e",
+  "slotId": "mod_barrel"
+},
+
+{
+  "_comment": "Trijicon RMR Reflex Sight",
+  "_id": "672000010000000000000052",
+  "_tpl": "5a32aa8bc4a2826c6e06d737",
+  "parentId": "67200001000000000000004f",
+  "slotId": "mod_sight_rear"
+},
+
+{
+  "_comment": "Pachmayr Tactical Grip Glove",
+  "_id": "672000010000000000000050",
+  "_tpl": "5a7b4960e899ef197b331a2d",
+  "parentId": "67200001000000000000004e",
+  "slotId": "mod_pistol_grip"
+},
+
+{
+  "_comment": "FAB Defense GLR-17 Stock",
+  "_id": "672000010000000000000053",
+  "_tpl": "5d1c702ad7ad1a632267f429",
+  "parentId": "67200001000000000000004e",
+  "slotId": "mod_stock"
+},
+
+{
+  "_comment": "Glock 9x19 33-round Big Stick Magazine",
+  "_id": "672000010000000000000054",
+  "_tpl": "5a7ad2e851dfba0016153692",
+  "parentId": "67200001000000000000004e",
+  "slotId": "mod_magazine"
+},
+
+{
+  "_comment": "FD917 Glock Suppressor",
+  "_id": "672000010000000000000055",
+  "_tpl": "5a7ad74e51dfba0015068f45",
+  "parentId": "67200001000000000000004e",
+  "slotId": "mod_tactical"
+},
+{
+  "_comment": "Crye AirFrame Helmet (Tan)",
+  "_id": "900010000000000000000001",
+  "_tpl": "5c17a7ed2e2216152142459c",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 3
+  }
+},
+{
+  "_comment": "Crye AirFrame Chops",
+  "_id": "900010000000000000000002",
+  "_tpl": "5c178a942e22164bef5ceca3",
+  "parentId": "900010000000000000000001",
+  "slotId": "mod_equipment_001"
+},
+{
+  "_comment": "FAST Multi-Hit Ballistic Face Shield",
+  "_id": "900010000000000000000003",
+  "_tpl": "5a16b7e1fcdbcb00165aa6c9",
+  "parentId": "900010000000000000000001",
+  "slotId": "mod_equipment_000"
+},
+{
+  "_comment": "Crye AirFrame Top Plate",
+  "_id": "900010000000000000000004",
+  "_tpl": "657f9897f4c82973640b235e",
+  "parentId": "900010000000000000000001",
+  "slotId": "Helmet_top"
+},
+{
+  "_comment": "Crye AirFrame Back Plate",
+  "_id": "900010000000000000000005",
+  "_tpl": "657f98fbada5fadd1f07a585",
+  "parentId": "900010000000000000000001",
+  "slotId": "Helmet_back"
+}, 
+{
+  "_comment": "Ops-Core FAST MT (Urban Tan)",
+  "_id": "910010000000000000000001",
+  "_tpl": "5ac8d6885acfc400180ae7b0",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 3
+  }
+},
+{
+  "_comment": "FAST MT Side Armor",
+  "_id": "910010000000000000000002",
+  "_tpl": "5a16badafcdbcb001865f72d",
+  "parentId": "910010000000000000000001",
+  "slotId": "mod_equipment_000"
+},
+{
+  "_comment": "Tac-Kek Heavy Trooper Mask",
+  "_id": "910010000000000000000003",
+  "_tpl": "5ea058e01dbce517f324b3e2",
+  "parentId": "910010000000000000000001",
+  "slotId": "mod_nvg"
+},
+{
+  "_comment": "FAST MT Top Plate",
+  "_id": "910010000000000000000004",
+  "_tpl": "657f8ec5f4c82973640b234c",
+  "parentId": "910010000000000000000001",
+  "slotId": "Helmet_top"
+},
+{
+  "_comment": "FAST MT Back Plate",
+  "_id": "910010000000000000000005",
+  "_tpl": "657f8f10f4c82973640b2350",
+  "parentId": "910010000000000000000001",
+  "slotId": "Helmet_back"
+}, 
+{
+  "_comment": "Team Wendy EXFIL Ballistic Helmet (Coyote Brown)",
+  "_id": "920010000000000000000001",
+  "_tpl": "5e01ef6886f77445f643baa4",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 3
+  }
+},
+{
+  "_comment": "EXFIL Ear Covers",
+  "_id": "920010000000000000000002",
+  "_tpl": "5e01f31d86f77465cf261343",
+  "parentId": "920010000000000000000001",
+  "slotId": "mod_equipment_000"
+},
+{
+  "_comment": "EXFIL Ballistic Face Shield",
+  "_id": "920010000000000000000003",
+  "_tpl": "5e01f37686f774773c6f6c15",
+  "parentId": "920010000000000000000001",
+  "slotId": "mod_equipment_001"
+},
+{
+  "_comment": "EXFIL Top Plate",
+  "_id": "920010000000000000000004",
+  "_tpl": "6551fec55d0cf82e51014288",
+  "parentId": "920010000000000000000001",
+  "slotId": "helmet_top"
+},
+{
+  "_comment": "EXFIL Back Plate",
+  "_id": "920010000000000000000005",
+  "_tpl": "655200ba0ef76cf7be09d528",
+  "parentId": "920010000000000000000001",
+  "slotId": "helmet_back"
+}, 
+{
+  "_comment": "MTEK FLUX Ballistic Helmet (MultiCam Alpine)",
+  "_id": "930010000000000000000001",
+  "_tpl": "675956062f6ddfe8ff0e2806",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 3
+  }
+},
+{
+  "_comment": "Norotos Titanium Advanced Tactical Mount",
+  "_id": "930010000000000000000002",
+  "_tpl": "5a16b8a9fcdbcb00165aa6ca",
+  "parentId": "930010000000000000000001",
+  "slotId": "mod_nvg",
+  "upd": {
+    "NotShownInSlot": true
+  }
+},
+{
+  "_comment": "PNV-10T Dovetail Adapter",
+  "_id": "930010000000000000000003",
+  "_tpl": "5c0695860db834001b735461",
+  "parentId": "930010000000000000000002",
+  "slotId": "mod_nvg",
+  "upd": {
+    "NotShownInSlot": true
+  }
+},
+{
+  "_comment": "PNV-10T Night Vision Goggles",
+  "_id": "930010000000000000000004",
+  "_tpl": "5c0696830db834001d23f5da",
+  "parentId": "930010000000000000000003",
+  "slotId": "mod_nvg",
+  "upd": {
+    "NotShownInSlot": true
+  }
+},
+{
+  "_comment": "MTEK FLUX Top Plate",
+  "_id": "930010000000000000000005",
+  "_tpl": "676307c004856a0b3c0dfffd",
+  "parentId": "930010000000000000000001",
+  "slotId": "Helmet_top"
+},
+{
+  "_comment": "MTEK FLUX Back Plate",
+  "_id": "930010000000000000000006",
+  "_tpl": "676307b4d9ec0af3d9001fa8",
+  "parentId": "930010000000000000000001",
+  "slotId": "Helmet_back"
+},
+{
+  "_comment": "Galvion Caiman Hybrid Helmet (Grey)",
+  "_id": "940010000000000000000001",
+  "_tpl": "5f60b34a41e30a4ab12a6947",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 3
+  }
+},
+{
+  "_comment": "Caiman Ballistic Mandible Guard",
+  "_id": "940010000000000000000002",
+  "_tpl": "5f60c076f2bcbb675b00dac2",
+  "parentId": "940010000000000000000001",
+  "slotId": "mod_equipment_000"
+},
+{
+  "_comment": "Caiman Ballistic Applique",
+  "_id": "940010000000000000000003",
+  "_tpl": "5f60b85bbdb8e27dee3dc985",
+  "parentId": "940010000000000000000001",
+  "slotId": "mod_equipment_002"
+},
+{
+  "_comment": "Caiman Fixed Arm Visor",
+  "_id": "940010000000000000000004",
+  "_tpl": "5f60bf4558eff926626a60f2",
+  "parentId": "940010000000000000000001",
+  "slotId": "mod_nvg",
+  "upd": { "NotShownInSlot": true }
+},
+{
+  "_comment": "Caiman Top Plate",
+  "_id": "940010000000000000000005",
+  "_tpl": "657bbad7a1c61ee0c3036323",
+  "parentId": "940010000000000000000001",
+  "slotId": "Helmet_top"
+},
+{
+  "_comment": "Caiman Back Plate",
+  "_id": "940010000000000000000006",
+  "_tpl": "657bbb31b30eca9763051183",
+  "parentId": "940010000000000000000001",
+  "slotId": "Helmet_back"
+},
+{
+  "_comment": "Ops-Core FAST MT Super High Cut helmet (Urban Tan)",
+  "_id": "950010000000000000000001",
+  "_tpl": "5ac8d6885acfc400180ae7b0",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 3
+  }
+},
+{
+  "_comment": "Ops-Core SLAAP Armor Plate (Tan)",
+  "_id": "950010000000000000000002",
+  "_tpl": "5c0e66e2d174af02a96252f4",
+  "parentId": "950010000000000000000001",
+  "slotId": "mod_equipment_002"
+},
+{
+  "_comment": "L3Harris GPNVG-18 Night Vision Goggles",
+  "_id": "950010000000000000000003",
+  "_tpl": "5c0558060db834001b735271",
+  "parentId": "950010000000000000000001",
+  "slotId": "mod_nvg",
+  "upd": { "NotShownInSlot": true }
+},
+{
+  "_comment": "FAST MT Top Plate",
+  "_id": "950010000000000000000004",
+  "_tpl": "657f8ec5f4c82973640b234c",
+  "parentId": "950010000000000000000001",
+  "slotId": "Helmet_top"
+},
+{
+  "_comment": "FAST MT Back Plate",
+  "_id": "950010000000000000000005",
+  "_tpl": "657f8f10f4c82973640b2350",
+  "parentId": "950010000000000000000001",
+  "slotId": "Helmet_back"
+}, 
+{
+  "_comment": "Physical Bitcoin",
+  "_id": "990000000000000000000001",
+  "_tpl": "59faff1d86f7746c51718c9c", 
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 10
+  }
+},
+{
+  "_comment": "GP Coin",
+  "_id": "960010000000000000000001",
+  "_tpl": "5d235b4d86f7742e017bc88a",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 20
+  }
+},
+{
+  "_comment": "BNTI Gzhel-K body armor",
+  "_id": "7fffffff0000000000000001",
+  "_tpl": "5ab8e79e86f7742d8b372e78",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 2
+  }
+},
+{
+  "_id": "7fffffff0000000000000002",
+  "_tpl": "65732688d9d89ff7ac0d9c4c",
+  "parentId": "7fffffff0000000000000001",
+  "slotId": "Soft_armor_front"
+},
+{
+  "_id": "7fffffff0000000000000003",
+  "_tpl": "657326978c1cc6dcd9098b56",
+  "parentId": "7fffffff0000000000000001",
+  "slotId": "Soft_armor_back"
+},
+{
+  "_id": "7fffffff0000000000000004",
+  "_tpl": "657326a28c1cc6dcd9098b5a",
+  "parentId": "7fffffff0000000000000001",
+  "slotId": "Soft_armor_left"
+},
+{
+  "_id": "7fffffff0000000000000005",
+  "_tpl": "657326b08c1cc6dcd9098b5e",
+  "parentId": "7fffffff0000000000000001",
+  "slotId": "soft_armor_right"
+},
+{
+  "_id": "7fffffff0000000000000006",
+  "_tpl": "657326bc5d3a3129fb05f36b",
+  "parentId": "7fffffff0000000000000001",
+  "slotId": "Collar"
+},
+{
+  "_comment": "IOTV Gen4 Body Armor (Full Protection Kit)",
+  "_id": "7fffffff0000000000000100",
+  "_tpl": "5b44cd8b86f774503d30cba2",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 2
+  }
+},
+{
+  "_id": "7fffffff0000000000000101",
+  "_tpl": "6575c2adefc786cd9101a5d9",
+  "parentId": "7fffffff0000000000000100",
+  "slotId": "Soft_armor_front"
+},
+{
+  "_id": "7fffffff0000000000000102",
+  "_tpl": "6575c2be52b7f8c76a05ee25",
+  "parentId": "7fffffff0000000000000100",
+  "slotId": "Soft_armor_back"
+},
+{
+  "_id": "7fffffff0000000000000103",
+  "_tpl": "6575c2cd52b7f8c76a05ee29",
+  "parentId": "7fffffff0000000000000100",
+  "slotId": "Soft_armor_left"
+},
+{
+  "_id": "7fffffff0000000000000104",
+  "_tpl": "6575c2d852b7f8c76a05ee2d",
+  "parentId": "7fffffff0000000000000100",
+  "slotId": "soft_armor_right"
+},
+{
+  "_id": "7fffffff0000000000000105",
+  "_tpl": "6575c2e4efc786cd9101a5dd",
+  "parentId": "7fffffff0000000000000100",
+  "slotId": "Collar"
+},
+{
+  "_id": "7fffffff0000000000000106",
+  "_tpl": "6575c2f7efc786cd9101a5e1",
+  "parentId": "7fffffff0000000000000100",
+  "slotId": "Shoulder_l"
+},
+{
+  "_id": "7fffffff0000000000000107",
+  "_tpl": "6575c30352b7f8c76a05ee31",
+  "parentId": "7fffffff0000000000000100",
+  "slotId": "Shoulder_r"
+},
+{
+  "_id": "7fffffff0000000000000108",
+  "_tpl": "6575c31b52b7f8c76a05ee35",
+  "parentId": "7fffffff0000000000000100",
+  "slotId": "Groin"
+},
+{
+  "_id": "7fffffff0000000000000109",
+  "_tpl": "6575c326c6700bd6b40e8a80",
+  "parentId": "7fffffff0000000000000100",
+  "slotId": "Groin_back"
+},
+{
+  "_comment": "Hexatac HPC Plate Carrier (MultiCam Black)",
+  "_id": "7fffffff0000000000000200",
+  "_tpl": "63737f448b28897f2802b874",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 2
+  }
+},
+{
+  "_id": "7fffffff0000000000000201",
+  "_tpl": "656fae5f7c2d57afe200c0d7",
+  "parentId": "7fffffff0000000000000200",
+  "slotId": "Front_plate"
+},
+{
+  "_id": "7fffffff0000000000000202",
+  "_tpl": "656fae5f7c2d57afe200c0d7",
+  "parentId": "7fffffff0000000000000200",
+  "slotId": "Back_plate"
+},
+ {
+  "_comment": "LBT-6094A Slick Plate Carrier (Black)",
+  "_id": "7fffffff0000000000000300",
+  "_tpl": "5e4abb5086f77406975c9342",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 1
+  }
+},
+{
+  "_id": "7fffffff0000000000000301",
+  "_tpl": "656fa76500d62bcd2e024080",
+  "parentId": "7fffffff0000000000000300",
+  "slotId": "Front_plate"
+},
+{
+  "_id": "7fffffff0000000000000302",
+  "_tpl": "656fa76500d62bcd2e024080",
+  "parentId": "7fffffff0000000000000300",
+  "slotId": "Back_plate"
+},
+{
+  "_id": "7fffffff0000000000000303",
+  "_tpl": "6575e71760703324250610c3",
+  "parentId": "7fffffff0000000000000300",
+  "slotId": "Soft_armor_front"
+},
+{
+  "_id": "7fffffff0000000000000304",
+  "_tpl": "6575e72660703324250610c7",
+  "parentId": "7fffffff0000000000000300",
+  "slotId": "Soft_armor_back"
+},
+{
+  "_comment": "Velocity Systems MPPV Multi-Purpose Patrol Vest (Wolf Grey)",
+  "_id": "7fffffff0000000000000400",
+  "_tpl": "5df8a42886f77412640e2e75",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 2
+  }
+},
+{
+  "_comment": "ANA Tactical Alpha chest rig (MultiCam)",
+  "_id": "7fffffff0000000000000401",
+  "_tpl": "67ab3ea96d7ece17bf0096f6",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 3
+  }
+},
+
+{
+  "_comment": "BlackRock chest rig (Khaki)",
+  "_id": "7fffffff0000000000000402",
+  "_tpl": "67ab3f146d7ece17bf0096ff",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 3
+  }
+},
+
+{
+  "_comment": "LBT-1961A Load Bearing Chest Rig (Goons Edition)",
+  "_id": "7fffffff0000000000000403",
+  "_tpl": "628baf0b967de16aab5a4f36",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 3
+  }
+},
+{
+  "_comment": "Mystery Ranch Blackjack 50 backpack (MultiCam)",
+  "_id": "7fffffff0000000000000500",
+  "_tpl": "5c0e774286f77468413cc5b2",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 1
+  }
+},
+{
+  "_comment": "Gruppa 99 T30 backpack (MultiCam)",
+  "_id": "7fffffff0000000000000501",
+  "_tpl": "62a1b7fbc30cfa1d366af586",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 3
+  }
+},
+{
+  "_comment": "ANA Tactical Beta 2 Battle backpack (Olive Drab)",
+  "_id": "7fffffff0000000000000502",
+  "_tpl": "5b44c6ae86f7742d1627baea",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 3
+  }
+},
+{
+  "_comment": "6Sh118 raid backpack (EMR)",
+  "_id": "7fffffff0000000000000503",
+  "_tpl": "5df8a4d786f77412672a1e3b",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 1
+  }
+},
+{
+  "_comment": "5.11 Tactical RUSH 100 backpack (Black)",
+  "_id": "7fffffff0000000000000504",
+  "_tpl": "67458730df3c1da90b0b052b",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 1
+  }
+},
+{
+  "_comment": "Money Case",
+  "_id": "7fffffff0000000000000505",
+  "_tpl": "59fb016586f7746d0d4b423a",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 1
+  }
+},
+{
+  "_comment": "T H I C C Item Case",
+  "_id": "7fffffff0000000000000506",
+  "_tpl": "5c0a840b86f7742ffa4f2482",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 1
+  }
+},
+{
+  "_comment": "Custom M4A1 Preset",
+  "_id": "67b001000000000000000001",
+  "_tpl": "5447a9cd4bdc2dbd208b4567",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": { "UnlimitedCount": false, "StackObjectsCount": 2}
+},
+
+{
+  "_id": "67b001000000000000000002",
+  "_tpl": "59bfe68886f7746004266202",
+  "parentId": "67b001000000000000000001",
+  "slotId": "mod_reciever"
+},
+{
+  "_id": "67b001000000000000000003",
+  "_tpl": "5d025cc1d7ad1a53845279ef",
+  "parentId": "67b001000000000000000001",
+  "slotId": "mod_pistol_grip"
+},
+{
+  "_id": "67b001000000000000000004",
+  "_tpl": "6761765f1f08ed5e8800b7a6",
+  "parentId": "67b001000000000000000001",
+  "slotId": "mod_magazine"
+},
+{
+  "_id": "67b001000000000000000005",
+  "_tpl": "5ea16d4d5aad6446a939753d",
+  "parentId": "67b001000000000000000001",
+  "slotId": "mod_charge"
+},
+
+{
+  "_id": "67b001000000000000000006",
+  "_tpl": "63d3d44a2a49307baf09386d",
+  "parentId": "67b001000000000000000002",
+  "slotId": "mod_barrel"
+},
+{
+  "_id": "67b001000000000000000007",
+  "_tpl": "63d3ce281fe77d0f2801859e",
+  "parentId": "67b001000000000000000006",
+  "slotId": "mod_gas_block"
+},
+{
+  "_id": "67b001000000000000000008",
+  "_tpl": "5ea16ada09aa976f2e7a51be",
+  "parentId": "67b001000000000000000002",
+  "slotId": "mod_handguard"
+},
+
+{
+  "_id": "67b001000000000000000009",
+  "_tpl": "5c6d710d2e22165df16b81e7",
+  "parentId": "67b001000000000000000006",
+  "slotId": "mod_muzzle"
+},
+{
+  "_id": "67b00100000000000000000a",
+  "_tpl": "5ea17bbc09aa976f2e7a51cd",
+  "parentId": "67b001000000000000000009",
+  "slotId": "mod_muzzle"
+},
+
+{
+  "_id": "67b00100000000000000000b",
+  "_tpl": "5c793fc42e221600114ca25d",
+  "parentId": "67b001000000000000000001",
+  "slotId": "mod_stock"
+},
+{
+  "_id": "67b00100000000000000000c",
+  "_tpl": "6516e91f609aaf354b34b3e2",
+  "parentId": "67b00100000000000000000b",
+  "slotId": "mod_stock_000"
+},
+{
+  "_id": "67b00100000000000000000d",
+  "_tpl": "6516e9d7e239bd0c487e3766",
+  "parentId": "67b00100000000000000000c",
+  "slotId": "mod_stock_000"
+},
+
+{
+  "_id": "67b00100000000000000000e",
+  "_tpl": "5b7be4895acfc400170e2dd5",
+  "parentId": "67b001000000000000000008",
+  "slotId": "mod_foregrip"
+},
+{
+  "_id": "67b00100000000000000000f",
+  "_tpl": "5c1bc5af2e221602b412949b",
+  "parentId": "67b00100000000000000000e",
+  "slotId": "mod_foregrip"
+},
+
+{
+  "_id": "67b001000000000000000010",
+  "_tpl": "6269545d0e57f218e4548ca2",
+  "parentId": "67b001000000000000000008",
+  "slotId": "mod_mount_000"
+},
+{
+  "_id": "67b001000000000000000011",
+  "_tpl": "626becf9582c3e319310b837",
+  "parentId": "67b001000000000000000010",
+  "slotId": "mod_tactical"
+},
+
+{
+  "_id": "67b001000000000000000012",
+  "_tpl": "6567e751a715f85433025998",
+  "parentId": "67b001000000000000000002",
+  "slotId": "mod_scope"
+},
+{
+  "_id": "67b001000000000000000013",
+  "_tpl": "617151c1d92c473c770214ab",
+  "parentId": "67b001000000000000000012",
+  "slotId": "mod_scope"
+},
+
+{
+  "_id": "67b001000000000000000014",
+  "_tpl": "5c18b90d2e2216152142466b",
+  "parentId": "67b001000000000000000008",
+  "slotId": "mod_sight_front"
+},
+{
+  "_id": "67b001000000000000000015",
+  "_tpl": "5c18b9192e2216398b5a8104",
+  "parentId": "67b001000000000000000002",
+  "slotId": "mod_sight_rear"
+},
+ {
+      "_comment": "Custom SA-58 Preset",
+      "_id": "e3f9c1b27a4d93f0bd21f4a1",
+      "_tpl": "5b0bbe4e5acfc40dc528a72d",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        },
+        "FireMode": {
+          "FireMode": "single"
+        },
+       "UnlimitedCount": false,
+        "StackObjectsCount": 2
+      }
+    },
+    {
+      "_comment": "Pistol Grip",
+      "_id": "b7c1f4e92ad83f10c4b90ae3",
+      "_tpl": "5b7d679f5acfc4001a5c4024",
+      "parentId": "e3f9c1b27a4d93f0bd21f4a1",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_comment": "Magazine",
+      "_id": "9fe31cd87bb92a00de41c2af",
+      "_tpl": "5b7bef9c5acfc43d102852ec",
+      "parentId": "e3f9c1b27a4d93f0bd21f4a1",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_comment": "Handguard",
+      "_id": "c4f87a9120beaa55ef39b110",
+      "_tpl": "5b7bebc85acfc43bca706666",
+      "parentId": "e3f9c1b27a4d93f0bd21f4a1",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_comment": "Barrel",
+      "_id": "d10a4ff3b218c942fae5c7a9",
+      "_tpl": "5b7be1265acfc400161d0798",
+      "parentId": "e3f9c1b27a4d93f0bd21f4a1",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_comment": "Rear Sight",
+      "_id": "af192e4c8c77b9e13040dca2",
+      "_tpl": "5b0bc22d5acfc47a8607f085",
+      "parentId": "e3f9c1b27a4d93f0bd21f4a1",
+      "slotId": "mod_sight_rear",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [0],
+          "ScopesSelectedModes": [0],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_comment": "Upper Receiver",
+      "_id": "c2d7f1b9a3dd4ea889314f44",
+      "_tpl": "5b099bb25acfc400186331e8",
+      "parentId": "e3f9c1b27a4d93f0bd21f4a1",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_comment": "Stock",
+      "_id": "f81c44ab93d3e01b2279fa18",
+      "_tpl": "5b099bf25acfc4001637e683",
+      "parentId": "e3f9c1b27a4d93f0bd21f4a1",
+      "slotId": "mod_stock"
+    },
+    {
+      "_comment": "Handguard Mount 1",
+      "_id": "aa112ec473b9d0f244c19fe8",
+      "_tpl": "5b7be4895acfc400170e2dd5",
+      "parentId": "c4f87a9120beaa55ef39b110",
+      "slotId": "mod_mount_000"
+    },
+    {
+      "_comment": "Handguard Mount 2",
+      "_id": "d3e9b84f11ab4c3f99207d11",
+      "_tpl": "5b7be47f5acfc400170e2dd2",
+      "parentId": "c4f87a9120beaa55ef39b110",
+      "slotId": "mod_mount_001"
+    },
+    {
+      "_comment": "Muzzle Device",
+      "_id": "bb7c1aa4df8e4b93a6c40f52",
+      "_tpl": "5a34fd2bc4a282329a73b4c5",
+      "parentId": "d10a4ff3b218c942fae5c7a9",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_comment": "Optic",
+      "_id": "e70f99ca1bd4492fb91f223c",
+      "_tpl": "57ae0171245977343c27bfcf",
+      "parentId": "c2d7f1b9a3dd4ea889314f44",
+      "slotId": "mod_scope",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [0],
+          "ScopesSelectedModes": [0],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_comment": "Stock Extension",
+      "_id": "f9d0b712e82e4fd9ce10cc58",
+      "_tpl": "5c793fc42e221600114ca25d",
+      "parentId": "f81c44ab93d3e01b2279fa18",
+      "slotId": "mod_stock_000"
+    },
+    {
+      "_comment": "Foregrip",
+      "_id": "ac44dce728be417c8f920bcd",
+      "_tpl": "5b057b4f5acfc4771e1bd3e9",
+      "parentId": "aa112ec473b9d0f244c19fe8",
+      "slotId": "mod_foregrip"
+    },
+    {
+      "_comment": "Flashlight / Laser",
+      "_id": "c4a0fbb72c9dfe18b23018d9",
+      "_tpl": "5cc9c20cd7f00c001336c65d",
+      "parentId": "d3e9b84f11ab4c3f99207d11",
+      "slotId": "mod_tactical",
+      "upd": {
+        "Light": {
+          "IsActive": true,
+          "SelectedMode": 0
+        }
+      }
+    },
+    {
+      "_comment": "Muzzle Brake Addon",
+      "_id": "e8f013aa57cc4f159b32cd18",
+      "_tpl": "5a34fe59c4a282000b1521a2",
+      "parentId": "bb7c1aa4df8e4b93a6c40f52",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_comment": "Secondary Stock Piece",
+      "_id": "fa31bcde99c442d18d014b72",
+      "_tpl": "58d2946386f774496974c37e",
+      "parentId": "f9d0b712e82e4fd9ce10cc58",
+      "slotId": "mod_stock_000"
+    },
+    {
+      "_comment": "Final Stock Pad",
+      "_id": "d1ee44ab117b430d9f903ac9",
+      "_tpl": "58d2912286f7744e27117493",
+      "parentId": "fa31bcde99c442d18d014b72",
+      "slotId": "mod_stock"
+    },
+{
+      "_comment": "Custom AS VAL Preset",
+      "_id": "c9a4d0f2be17a9234a1c90b2",
+      "_tpl": "57c44b372459772d2b39b8ce",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "Repairable": {
+          "Durability": 57,
+          "MaxDurability": 80
+        },
+        "FireMode": {
+          "FireMode": "single"
+        },
+        "Foldable": {
+          "Folded": false
+        },
+       "UnlimitedCount": false,
+        "StackObjectsCount": 2
+      }
+    },
+    {
+      "_comment": "Muzzle Device",
+      "_id": "e1db4cfa23994857b0e34a21",
+      "_tpl": "57c44dd02459772d2e0ae249",
+      "parentId": "c9a4d0f2be17a9234a1c90b2",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_comment": "Receiver",
+      "_id": "a7de22f9bc4ed9135231bb44",
+      "_tpl": "578395402459774a256959b5",
+      "parentId": "c9a4d0f2be17a9234a1c90b2",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_comment": "Magazine",
+      "_id": "f019ab34c927e18aa319c452",
+      "_tpl": "5a9e81fba2750c00164f6b11",
+      "parentId": "c9a4d0f2be17a9234a1c90b2",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_comment": "Pistol Grip",
+      "_id": "d49eb7124aa83f11d82bb0cc",
+      "_tpl": "5a69a2ed8dc32e000d46d1f1",
+      "parentId": "c9a4d0f2be17a9234a1c90b2",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_comment": "Charging Handle",
+      "_id": "b12d9efcc78ab44092c1dee8",
+      "_tpl": "6130ca3fd92c473c77020dbd",
+      "parentId": "c9a4d0f2be17a9234a1c90b2",
+      "slotId": "mod_charge"
+    },
+    {
+      "_comment": "Top Rail / Mount",
+      "_id": "9df414aa233efb829514ac10",
+      "_tpl": "67069c8cee8138ed2f05ad34",
+      "parentId": "c9a4d0f2be17a9234a1c90b2",
+      "slotId": "mod_mount_000"
+    },
+    {
+      "_comment": "Handguard",
+      "_id": "e8ab9fc0232147ee99d2cb73",
+      "_tpl": "651178336cad06c37c049eb4",
+      "parentId": "c9a4d0f2be17a9234a1c90b2",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_comment": "Rear Sight",
+      "_id": "c4f93aba99a14fcb1e02cc1d",
+      "_tpl": "57c44e7b2459772d28133248",
+      "parentId": "e1db4cfa23994857b0e34a21",
+      "slotId": "mod_sight_rear",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [0],
+          "ScopesSelectedModes": [0],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_comment": "Muzzle Mount",
+      "_id": "f4d1eacbb8134d2299f8c412",
+      "_tpl": "59eb7ebe86f7740b373438ce",
+      "parentId": "e1db4cfa23994857b0e34a21",
+      "slotId": "mod_mount_000"
+    },
+    {
+      "_comment": "Stock",
+      "_id": "af1339c45bd0f81a22c9fb63",
+      "_tpl": "6529370c405a5f51dd023db8",
+      "parentId": "d49eb7124aa83f11d82bb0cc",
+      "slotId": "mod_stock_000"
+    },
+    {
+      "_comment": "Optic",
+      "_id": "b81f2c9a1442df392a013e51",
+      "_tpl": "5a1ead28fcdbcb001912fa9f",
+      "parentId": "9df414aa233efb829514ac10",
+      "slotId": "mod_scope"
+    },
+    {
+      "_comment": "Tactical Device (Light/Laser)",
+      "_id": "d98120cdf43b4a7fa23114ce",
+      "_tpl": "5d2369418abbc306c62e0c80",
+      "parentId": "f4d1eacbb8134d2299f8c412",
+      "slotId": "mod_tactical_000",
+      "upd": {
+        "Light": {
+          "IsActive": true,
+          "SelectedMode": 0
+        }
+      }
+    },
+    {
+      "_comment": "Foregrip",
+      "_id": "c129e8ba54acf983bc731df9",
+      "_tpl": "5c1cd46f2e22164bef5cfedb",
+      "parentId": "f4d1eacbb8134d2299f8c412",
+      "slotId": "mod_foregrip"
+    },
+    {
+      "_comment": "Secondary Optic / Scope",
+      "_id": "a3d9b23ca8114f199e20ccbd",
+      "_tpl": "5a1eaa87fcdbcb001865f75e",
+      "parentId": "b81f2c9a1442df392a013e51",
+      "slotId": "mod_scope",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [0],
+          "ScopesSelectedModes": [0],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+
+       }
+    }, 
+ {
+      "_comment": "STM-9 Base",
+      "_id": "d9e1f2b49c8a44e3ab12f0cd",
+      "_tpl": "60339954d62c9b14ed777c06",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        },
+        "FireMode": {
+          "FireMode": "single"
+        },
+        "UnlimitedCount": false,
+         "StackObjectsCount": 3
+      }
+    },
+    {
+      "_comment": "Pistol Grip",
+      "_id": "b74cd2190e934fd3bc20aa31",
+      "_tpl": "6113cc78d3a39d50044c065a",
+      "parentId": "d9e1f2b49c8a44e3ab12f0cd",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_comment": "Magazine",
+      "_id": "e4b9283c55d947198f2ab711",
+      "_tpl": "5a718f958dc32e00094b97e7",
+      "parentId": "d9e1f2b49c8a44e3ab12f0cd",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_comment": "Receiver",
+      "_id": "c1d984f77a204beaa11c9fb2",
+      "_tpl": "602e63fb6335467b0c5ac94d",
+      "parentId": "d9e1f2b49c8a44e3ab12f0cd",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_comment": "Stock",
+      "_id": "a4c99ecf0a5145a1ae9bbdd1",
+      "_tpl": "627254cc9c563e6e442c398f",
+      "parentId": "d9e1f2b49c8a44e3ab12f0cd",
+      "slotId": "mod_stock_001"
+    },
+    {
+      "_comment": "Charging Handle",
+      "_id": "f8e2c14b3a334d1faa0cc921",
+      "_tpl": "6033749e88382f4fab3fd2c5",
+      "parentId": "d9e1f2b49c8a44e3ab12f0cd",
+      "slotId": "mod_charge"
+    },
+    {
+      "_comment": "Front Tactical Slot",
+      "_id": "e9d4ab12c119407d8eb00455",
+      "_tpl": "60338ff388382f4fab3fd2c8",
+      "parentId": "d9e1f2b49c8a44e3ab12f0cd",
+      "slotId": "mod_tactical_000"
+    },
+    {
+      "_comment": "Primary Scope",
+      "_id": "c2a14fe90dd4490a9f22b631",
+      "_tpl": "57adff4f24597737f373b6e6",
+      "parentId": "c1d984f77a204beaa11c9fb2",
+      "slotId": "mod_scope",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [0],
+          "ScopesSelectedModes": [0],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_comment": "Barrel",
+      "_id": "f7a3c02ebbdd4c1d8bc1ac19",
+      "_tpl": "603372f153a60014f970616d",
+      "parentId": "c1d984f77a204beaa11c9fb2",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_comment": "Handguard",
+      "_id": "af1190c8dee443118ae0c1f8",
+      "_tpl": "6034e3cb0ddce744014cb870",
+      "parentId": "c1d984f77a204beaa11c9fb2",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_comment": "Secondary Scope",
+      "_id": "db10192bb6894f3db7baab12",
+      "_tpl": "57ae0171245977343c27bfcf",
+      "parentId": "c2a14fe90dd4490a9f22b631",
+      "slotId": "mod_scope",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [0],
+          "ScopesSelectedModes": [0],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_comment": "Muzzle",
+      "_id": "b8371cd292eb4d6ba7c123ea",
+      "_tpl": "5a32a064c4a28200741e22de",
+      "parentId": "f7a3c02ebbdd4c1d8bc1ac19",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_comment": "Mount",
+      "_id": "a7ce11b9ee17495e813ac4b1",
+      "_tpl": "6269545d0e57f218e4548ca2",
+      "parentId": "af1190c8dee443118ae0c1f8",
+      "slotId": "mod_mount_000"
+    },
+    {
+      "_comment": "Foregrip Base",
+      "_id": "fa40d11cbba646059fd11c20",
+      "_tpl": "5b7be4895acfc400170e2dd5",
+      "parentId": "af1190c8dee443118ae0c1f8",
+      "slotId": "mod_foregrip"
+    },
+    {
+      "_comment": "Tactical Flashlight",
+      "_id": "c0fd01ab71b145baad2211b3",
+      "_tpl": "644a3df63b0b6f03e101e065",
+      "parentId": "a7ce11b9ee17495e813ac4b1",
+      "slotId": "mod_tactical",
+      "upd": {
+        "Light": {
+          "IsActive": true,
+          "SelectedMode": 0
+        }
+      }
+    },
+    {
+      "_comment": "Vertical Foregrip",
+      "_id": "d0ab91f2225c4d6a8cce1193",
+      "_tpl": "619386379fb0c665d5490dbe",
+      "parentId": "fa40d11cbba646059fd11c20",
+      "slotId": "mod_foregrip"
+    },
+   {
+      "_comment": "Custom P90 Preset",
+      "_id": "f0a19cdd3bce4f8d92b10ea1",
+      "_tpl": "5cc82d76e24e8d00134b4b83",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "Repairable": {
+          "Durability": 86,
+          "MaxDurability": 91
+        },
+        "FireMode": {
+          "FireMode": "single"
+        },
+        "UnlimitedCount": false,
+         "StackObjectsCount": 3
+      }
+    },
+    {
+      "_comment": "Magazine",
+      "_id": "bcd0129f82464cc7a19bfe32",
+      "_tpl": "5cc70093e4a949033c734312",
+      "parentId": "f0a19cdd3bce4f8d92b10ea1",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_comment": "Stock",
+      "_id": "e4f8a234d12b44999b7a01ff",
+      "_tpl": "5cc700b9e4a949000f0f0f25",
+      "parentId": "f0a19cdd3bce4f8d92b10ea1",
+      "slotId": "mod_stock"
+    },
+    {
+      "_comment": "Receiver",
+      "_id": "c8fd13ab1a354c54b8311022",
+      "_tpl": "5cc700ede4a949033c734315",
+      "parentId": "f0a19cdd3bce4f8d92b10ea1",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_comment": "Barrel",
+      "_id": "a1cf03b1129e4df3a81c9900",
+      "_tpl": "5cc701aae4a949000e1ea45c",
+      "parentId": "f0a19cdd3bce4f8d92b10ea1",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_comment": "Charging Handle",
+      "_id": "d39af201bbcd4ec2b41900ae",
+      "_tpl": "5cc6ea78e4a949000e1ea3c1",
+      "parentId": "f0a19cdd3bce4f8d92b10ea1",
+      "slotId": "mod_charge"
+    },
+    {
+      "_comment": "Stock Extension",
+      "_id": "a4b791c93cce4ae4b97d105a",
+      "_tpl": "5cc700d4e4a949000f0f0f28",
+      "parentId": "e4f8a234d12b44999b7a01ff",
+      "slotId": "mod_stock_000"
+    },
+    {
+      "_comment": "Mount",
+      "_id": "f71a0d9eb33b407e98f5dc44",
+      "_tpl": "5cc7012ae4a949001252b43e",
+      "parentId": "c8fd13ab1a354c54b8311022",
+      "slotId": "mod_mount_000"
+    },
+    {
+      "_comment": "Primary Scope",
+      "_id": "c1ab44f2df2b4d18a1e90f33",
+      "_tpl": "6478641c19d732620e045e17",
+      "parentId": "c8fd13ab1a354c54b8311022",
+      "slotId": "mod_scope",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [0],
+          "ScopesSelectedModes": [0],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_comment": "Muzzle Device",
+      "_id": "ad1138fe21a5437d9b2110cf",
+      "_tpl": "5cc82796e24e8d000f5859a8",
+      "parentId": "a1cf03b1129e4df3a81c9900",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_comment": "Tactical Flashlight",
+      "_id": "b09f43a8f14940b2a9400caa",
+      "_tpl": "6272379924e29f06af4d5ecb",
+      "parentId": "f71a0d9eb33b407e98f5dc44",
+      "slotId": "mod_tactical",
+      "upd": {
+        "Light": {
+          "IsActive": true,
+          "SelectedMode": 0
+        }
+      }
+    },
+    {
+      "_comment": "Suppressor Addon",
+      "_id": "f8ce11ab411143e382115dff",
+      "_tpl": "5cebec00d7f00c065c53522a",
+      "parentId": "ad1138fe21a5437d9b2110cf",
+      "slotId": "mod_muzzle"
+    },
+   {
+      "_comment": "Custom MK18 Preset",
+      "_id": "f9c2de11a3b44b0da87f90e2",
+      "_tpl": "5fc22d7c187fea44d52eda44",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "Repairable": {
+          "Durability": 71,
+          "MaxDurability": 93
+        },
+        "FireMode": {
+          "FireMode": "single"
+        },
+        "UnlimitedCount": false,
+         "StackObjectsCount": 1
+      }
+    },
+    {
+      "_comment": "Pistol Grip",
+      "_id": "c4a13dbaa5fe4f69b76b12aa",
+      "_tpl": "615d8faecabb9b7ad90f4d5d",
+      "parentId": "f9c2de11a3b44b0da87f90e2",
+      "slotId": "mod_pistol_grip"
+    },
+    {
+      "_comment": "Magazine",
+      "_id": "ab8c9de320b14d1387c2119f",
+      "_tpl": "5fc23426900b1d5091531e15",
+      "parentId": "f9c2de11a3b44b0da87f90e2",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_comment": "Stock Base",
+      "_id": "e912fa4462bf4e83a9acc9c1",
+      "_tpl": "5d120a10d7ad1a4e1026ba85",
+      "parentId": "f9c2de11a3b44b0da87f90e2",
+      "slotId": "mod_stock_001"
+    },
+    {
+      "_comment": "Receiver",
+      "_id": "b40ef11aa2394b9f87a5c2f9",
+      "_tpl": "5fc278107283c4046c581489",
+      "parentId": "f9c2de11a3b44b0da87f90e2",
+      "slotId": "mod_reciever"
+    },
+    {
+      "_comment": "Stock",
+      "_id": "d4ec019ab00e4b72a4c33224",
+      "_tpl": "5d120a28d7ad1a1c8962e295",
+      "parentId": "e912fa4462bf4e83a9acc9c1",
+      "slotId": "mod_stock"
+    },
+    {
+      "_comment": "Primary Scope",
+      "_id": "ea32cbb49d5f4c87a5b00331",
+      "_tpl": "57c69dd424597774c03b7bbc",
+      "parentId": "b40ef11aa2394b9f87a5c2f9",
+      "slotId": "mod_scope"
+    },
+    {
+      "_comment": "Barrel",
+      "_id": "c1df4ea3199543e6bcd900bc",
+      "_tpl": "5fc23678ab884124df0cd590",
+      "parentId": "b40ef11aa2394b9f87a5c2f9",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_comment": "Handguard",
+      "_id": "afeb90213d31468ba3a2c991",
+      "_tpl": "5fc235db2770a0045c59c683",
+      "parentId": "b40ef11aa2394b9f87a5c2f9",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_comment": "Rear Sight",
+      "_id": "f7100f9ca4de4ea78b6df34e",
+      "_tpl": "5c18b9192e2216398b5a8104",
+      "parentId": "b40ef11aa2394b9f87a5c2f9",
+      "slotId": "mod_sight_rear",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [0],
+          "ScopesSelectedModes": [0],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_comment": "Secondary Scope",
+      "_id": "a0de9132181943dabc4ffe21",
+      "_tpl": "5b2388675acfc4771e1be0be",
+      "parentId": "ea32cbb49d5f4c87a5b00331",
+      "slotId": "mod_scope",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [0],
+          "ScopesSelectedModes": [0],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_comment": "Muzzle Device",
+      "_id": "c2af17f0c1ab4b09b61f2034",
+      "_tpl": "612e0d81290d254f5e6b291a",
+      "parentId": "c1df4ea3199543e6bcd900bc",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_comment": "Gas Block",
+      "_id": "dafc114b11f24264a1bd0ccf",
+      "_tpl": "5fc2360f900b1d5091531e19",
+      "parentId": "c1df4ea3199543e6bcd900bc",
+      "slotId": "mod_gas_block"
+    },
+    {
+      "_comment": "Side Scope Mount",
+      "_id": "eb51a3cc993048d190fe5543",
+      "_tpl": "5649a2464bdc2d91118b45a8",
+      "parentId": "afeb90213d31468ba3a2c991",
+      "slotId": "mod_scope"
+    },
+    {
+      "_comment": "Right Rail Mount",
+      "_id": "d025bbcc0b6847f4bc9110e2",
+      "_tpl": "6269220d70b6c02e665f2635",
+      "parentId": "afeb90213d31468ba3a2c991",
+      "slotId": "mod_mount_002"
+    },
+    {
+      "_comment": "Front Sight",
+      "_id": "f9bde2c499b041e49502badf",
+      "_tpl": "5c18b90d2e2216152142466b",
+      "parentId": "afeb90213d31468ba3a2c991",
+      "slotId": "mod_sight_front",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [0],
+          "ScopesSelectedModes": [0],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_comment": "Foregrip Base",
+      "_id": "c8ef011ba88444fcb72bd231",
+      "_tpl": "5b7be4895acfc400170e2dd5",
+      "parentId": "afeb90213d31468ba3a2c991",
+      "slotId": "mod_foregrip"
+    },
+    {
+      "_comment": "Suppressor Extension",
+      "_id": "a3e11dcb01e44fa692cc14f0",
+      "_tpl": "63877c99e785640d436458ea",
+      "parentId": "c2af17f0c1ab4b09b61f2034",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_comment": "Micro Optic",
+      "_id": "d88ad91031284d63ab20bbff",
+      "_tpl": "609bab8b455afd752b2e6138",
+      "parentId": "eb51a3cc993048d190fe5543",
+      "slotId": "mod_scope",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [0],
+          "ScopesSelectedModes": [0],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_comment": "Rail Light",
+      "_id": "f1cce3924e6f4fc3bbf0102a",
+      "_tpl": "61605d88ffa6e502ac5e7eeb",
+      "parentId": "d025bbcc0b6847f4bc9110e2",
+      "slotId": "mod_tactical",
+      "upd": {
+        "Light": {
+          "IsActive": true,
+          "SelectedMode": 0
+        }
+      }
+    },
+    {
+      "_comment": "Vertical Grip",
+      "_id": "ab4c10df99204d64bc21cee2",
+      "_tpl": "59f8a37386f7747af3328f06",
+      "parentId": "c8ef011ba88444fcb72bd231",
+      "slotId": "mod_foregrip"
+    },
+
+{
+  "_comment": "Atomic Defense CQCM Ballistic Mask (Demon)",
+  "_id": "bfa12cd9e8c44a82a9110ed2",
+  "_tpl": "67a5c61c7f52620c5b05b4d8",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 5
+  }
+},
+ {
+  "_comment": "Atomic Defense CQCM Ballistic Mask (El Día de Muertos)",
+  "_id": "c7de11fa349549e8a23310b7",
+  "_tpl": "67a5c657782ce4655104db16",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 5
+  }
+},
+{
+  "_comment": "Atomic Defense CQCM Ballistic Mask (Scars)",
+  "_id": "d3b92fe4c19a4c7fb2100aa8",
+  "_tpl": "67a5c5df782ce4655104db14",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 5
+  }
+},
+{
+  "_comment": "Atomic Defense CQCM Ballistic Mask (Stop Me)",
+  "_id": "e1af93cbd2244e1eac11f0b3",
+  "_tpl": "67a5c5b6dfdf568c9009af66",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 5
+  }
+},
+{
+  "_comment": "Balaclava (Born to Die)",
+  "_id": "f7c1ab92de4a4ef1b82100d4",
+  "_tpl": "67a9cd28cade15e0f00123b6",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 10
+  }
+},
+{
+  "_comment": "Balaclava (Luxury)",
+  "_id": "c2ef11dab49f4a25a0b31e77",
+  "_tpl": "67a9cd6ecade15e0f00123b8",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 10
+  }
+},
+{
+  "_comment": "Balaclava (Smile)",
+  "_id": "eaf103bb99c744c889120fe1",
+  "_tpl": "67a9ea98de7fb0f19e077da8",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 10
+  }
+},
+{
+  "_comment": "Balaclava (Yellow)",
+  "_id": "d4b120fea9c84c89b2100fd3",
+  "_tpl": "67a9cd55c2a2d940930aec86",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 10
+  }
+},
+{
+  "_comment": "Vengeful Zryachiy's balaclava",
+  "_id": "f3de10ab94c04ac2be1157c9",
+  "_tpl": "6530e8587cbfc1e309011e37",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 1
+  }
+},
+{
+  "_comment": "Zryachiy's balaclava",
+  "_id": "c1af03dd84e74b28bb2103f4",
+  "_tpl": "63626d904aa74b8fe30ab426",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 3
+  }
+},
+ {
+  "_comment": "Tagilla's welding mask (UBEY)",
+  "_id": "e7c4bb12f9304d0ba91f0ae7",
+  "_tpl": "60a7ad2a2198820d95707a2e",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 2
+  }
+},
+{
+  "_comment": "Tagilla's welding mask (Gorilla)",
+  "_id": "d9bc44ef130c44a0b6220c19",
+  "_tpl": "60a7ad3a0c5cb24b0134664a",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "UnlimitedCount": false,
+    "StackObjectsCount": 2
+  }
+}
+
+
+],
+
+
+
+  "barter_scheme": {
+    "67200001000000000000003b": [[{ "count": 7, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000001": [[{ "count": 7, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000002": [[{ "count": 11, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000003": [[{ "count": 27, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000004": [[{ "count": 10, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000005": [[{ "count": 8, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000006": [[{ "count": 30000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000007": [[{ "count": 3000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000008": [[{ "count": 57000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000009": [[{ "count": 1500, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "67200001000000000000000a": [[{ "count": 1500, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "67200001000000000000000b": [[{ "count": 2000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "67200001000000000000000c": [[{ "count": 1700, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "67200001000000000000000d": [[{ "count": 1000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "67200001000000000000000e": [[{ "count": 1000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "67200001000000000000000f": [[{ "count": 1000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000010": [[{ "count": 1000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000011": [[{ "count": 43000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000012": [[{ "count": 12000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000025": [[{ "count": 500, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "67200001000000000000004a": [[{ "count": 605, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000030": [[{ "count": 5000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000031": [[{ "count": 8000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000032": [[{ "count": 1500, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000033": [[{ "count": 900, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000034": [[{ "count": 146, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000035": [[{ "count": 500, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000036": [[{ "count": 350, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000037": [[{ "count": 1500, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000038": [[{ "count": 900, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000039": [[{ "count": 2000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "67200001000000000000003a": [[{ "count": 4000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "67200001000000000000003c": [[{ "count": 4, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "67200001000000000000003d": [[{ "count": 3, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "67200001000000000000003e": [[{ "count": 20, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "67200001000000000000003f": [[{ "count": 6, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000040": [[{ "count": 30, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000041": [[{ "count": 399, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000042": [[{ "count": 350, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000043": [[{ "count": 380, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000044": [[{ "count": 385, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000045": [[{ "count": 165, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000046": [[{ "count": 650, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000047": [[{ "count": 700, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000048": [[{ "count": 7, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000049": [[{ "count": 200, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "67200001000000000000004b": [[{ "count": 300, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "67200001000000000000004c": [[{ "count": 110, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "67200001000000000000004d": [[{ "count": 400, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "67200001000000000000004e": [[{ "count": 600, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000057": [[{ "count": 670, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000158": [[{ "count": 3300, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000058": [[{ "count": 4000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "672000010000000000000059": [[{ "count": 17000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "67200001000000000000005a": [[{ "count": 25000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "900010000000000000000001": [[{ "count": 960, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "910010000000000000000001": [[{ "count": 885, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "920010000000000000000001": [[{ "count": 1000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "930010000000000000000001": [[{ "count": 679, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "940010000000000000000001": [[{ "count": 850, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "950010000000000000000001": [[{ "count": 1700, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "960010000000000000000001": [[{ "count": 10, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "990000000000000000000001": [[{ "count": 20, "_tpl": "57347baf24597738002c6178" }]],
+   "7fffffff0000000000000001": [[{ "count": 700, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "7fffffff0000000000000100": [[{ "count": 2200, "_tpl": "5696686a4bdc2da3298b456a" }]],
+  "7fffffff0000000000000200": [[{ "count": 1899, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "7fffffff0000000000000300": [[{ "count": 2500, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "7fffffff0000000000000400": [[{ "count": 600, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "7fffffff0000000000000401": [[{ "count": 550, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "7fffffff0000000000000402": [[{ "count": 500, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "7fffffff0000000000000403": [[{ "count": 1000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "7fffffff0000000000000500": [[{ "count": 1500, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "7fffffff0000000000000501": [[{ "count": 400, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "7fffffff0000000000000502": [[{ "count": 650, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "7fffffff0000000000000503": [[{ "count": 1500, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "7fffffff0000000000000504": [[{ "count": 10, "_tpl": "57347c77245977448d35f6e2" }, { "count": 5, "_tpl": "57347c5b245977448d35f6e1" }]],
+   "7fffffff0000000000000505": [[{ "count": 3000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "7fffffff0000000000000506": [[{ "count": 20, "_tpl": "57347ca924597744596b4e71" }]],
+   "67b001000000000000000001":[[{ "count":3200,"_tpl":"5696686a4bdc2da3298b456a"}]],
+   "e3f9c1b27a4d93f0bd21f4a1": [[{ "count":2500, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "c9a4d0f2be17a9234a1c90b2": [[{ "count": 6500, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "d9e1f2b49c8a44e3ab12f0cd": [[{ "count": 1700, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "f0a19cdd3bce4f8d92b10ea1": [[{ "count": 2000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "f9c2de11a3b44b0da87f90e2": [[{ "count": 4000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "bfa12cd9e8c44a82a9110ed2": [[{ "count": 500, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "c7de11fa349549e8a23310b7": [[{ "count": 500, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "d3b92fe4c19a4c7fb2100aa8": [[{ "count": 500, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "e1af93cbd2244e1eac11f0b3": [[{ "count": 500, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "f7c1ab92de4a4ef1b82100d4": [[{ "count": 50, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "c2ef11dab49f4a25a0b31e77": [[{ "count": 50, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "eaf103bb99c744c889120fe1": [[{ "count": 50, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "d4b120fea9c84c89b2100fd3": [[{ "count": 50, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "f3de10ab94c04ac2be1157c9": [[{ "count": 6000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+   "c1af03dd84e74b28bb2103f4": [[{ "count": 2500, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "e7c4bb12f9304d0ba91f0ae7": [[{ "count": 1800, "_tpl": "5696686a4bdc2da3298b456a" }]],
+    "d9bc44ef130c44a0b6220c19": [[{ "count": 1800, "_tpl": "5696686a4bdc2da3298b456a" }]]
+
+
+ },
+
+  "loyal_level_items": {
+    "672000010000000000000001": 1,
+    "672000010000000000000002": 1,
+    "672000010000000000000003": 1,
+    "672000010000000000000004": 1,
+    "672000010000000000000005": 1,
+    "672000010000000000000006": 1,
+    "672000010000000000000007": 1,
+    "672000010000000000000008": 1,
+    "672000010000000000000009": 1,
+    "67200001000000000000000a": 1,
+    "67200001000000000000000b": 1,
+    "67200001000000000000000c": 1,
+    "67200001000000000000000d": 1,
+    "67200001000000000000000e": 1,
+    "67200001000000000000000f": 1,
+    "672000010000000000000010": 1,
+    "672000010000000000000011": 1,
+    "672000010000000000000012": 1,
+    "672000010000000000000025": 1,
+    "672000010000000000000030": 1,
+    "672000010000000000000031": 1,
+    "672000010000000000000032": 1,
+    "672000010000000000000033": 1,
+    "672000010000000000000034": 1,
+    "672000010000000000000035": 1,
+    "672000010000000000000036": 1,
+    "672000010000000000000037": 1,
+    "672000010000000000000038": 1,
+    "672000010000000000000039": 1,
+    "67200001000000000000003a": 1,
+    "67200001000000000000003c": 1,
+    "67200001000000000000003d": 1,
+    "67200001000000000000003e": 1,
+    "67200001000000000000003f": 1,
+    "672000010000000000000040": 1,
+    "672000010000000000000041": 1,
+    "672000010000000000000042": 1,
+    "672000010000000000000043": 1,
+    "672000010000000000000044": 1,
+    "672000010000000000000045": 1,
+    "672000010000000000000046": 1,
+    "672000010000000000000047": 1,
+    "672000010000000000000048": 1,
+    "672000010000000000000049": 1,
+    "67200001000000000000004a": 1,
+    "67200001000000000000004b": 1,
+    "67200001000000000000004c": 1,
+    "67200001000000000000004d": 1,
+    "67200001000000000000004e": 1,
+    "672000010000000000000057": 1,
+    "672000010000000000000058": 1,
+    "672000010000000000000158": 1,
+    "672000010000000000000059": 1,
+    "67200001000000000000005a": 1,
+    "900010000000000000000001": 1,
+    "910010000000000000000001": 1,
+    "920010000000000000000001": 1,
+    "930010000000000000000001": 1,
+    "940010000000000000000001": 1,
+    "67200001000000000000003b": 1,
+    "950010000000000000000001": 1,
+    "990000000000000000000001": 1,
+    "960010000000000000000001": 1,
+    "7fffffff0000000000000001": 1,
+    "7fffffff0000000000000100": 1,
+    "7fffffff0000000000000200": 1,
+    "7fffffff0000000000000300": 1,
+    "7fffffff0000000000000400": 1,
+    "7fffffff0000000000000401": 1,
+    "7fffffff0000000000000402": 1,
+    "7fffffff0000000000000403": 1,
+    "7fffffff0000000000000500": 1,
+    "7fffffff0000000000000501": 1,
+    "7fffffff0000000000000502": 1,
+    "7fffffff0000000000000503": 1,
+    "7fffffff0000000000000504": 1,
+    "7fffffff0000000000000505": 1,
+    "7fffffff0000000000000506": 1,
+    "67b001000000000000000001": 1,
+    "e3f9c1b27a4d93f0bd21f4a1": 1,
+    "c9a4d0f2be17a9234a1c90b2": 1,
+    "d9e1f2b49c8a44e3ab12f0cd": 1,
+    "f0a19cdd3bce4f8d92b10ea1": 1,
+    "f9c2de11a3b44b0da87f90e2": 1,
+    "bfa12cd9e8c44a82a9110ed2": 1,
+    "c7de11fa349549e8a23310b7": 1,
+    "d3b92fe4c19a4c7fb2100aa8": 1,
+    "e1af93cbd2244e1eac11f0b3": 1,
+    "f7c1ab92de4a4ef1b82100d4": 1,
+    "c2ef11dab49f4a25a0b31e77": 1,
+    "eaf103bb99c744c889120fe1": 1,
+    "d4b120fea9c84c89b2100fd3": 1,
+    "f3de10ab94c04ac2be1157c9": 1,
+    "c1af03dd84e74b28bb2103f4": 1,
+    "e7c4bb12f9304d0ba91f0ae7": 1,
+    "d9bc44ef130c44a0b6220c19": 1
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
+}
