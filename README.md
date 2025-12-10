@@ -63,6 +63,4 @@ Make sure the folder is not inside another folder.
 Start SPT from the launcher.
 If everything is installed correctly, Zasten will show up as a new trader in the trader list.
 
-Optional: If the mod includes a “config” file, you can open it to change settings such as item stock amounts, prices, currency, or refresh timers.
-
 To update the mod, delete the old version from user/mods and replace it with the new version.
