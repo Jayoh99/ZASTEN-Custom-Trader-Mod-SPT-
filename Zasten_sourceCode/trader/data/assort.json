@@ -6,7 +6,7 @@
   "_tpl": "56dfef82d2720bbd668b4567",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 300 }
+  "upd": { "UnlimitedCount": true, "StackObjectsCount": 9999999, "BuyRestrictionMax": 300, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "7.62x51mm M993",
@@ -14,7 +14,7 @@
   "_tpl": "5efb0c1bd79ff02a1f5e68d9",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false,"StackObjectsCount": 66 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 66, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "9x39mm SPP gs",
@@ -22,7 +22,7 @@
   "_tpl": "5c0d668f86f7747ccb7f13b2",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false,"StackObjectsCount": 300 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 300, "BuyRestrictionCurrent": 0  }
 },
 {
   "_comment": "9x39mm BP gs",
@@ -30,7 +30,7 @@
   "_tpl": "5c0d688c86f77413ae3407b2",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 200 }
+  "upd": { "UnlimitedCount": true, "StackObjectsCount": 99999999, "BuyRestrictionMax": 300, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": ".50 AE Copper Solid",
@@ -38,7 +38,7 @@
   "_tpl": "66a0d1e0ed648d72fe064d06",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 300 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 300, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "9x19mm RIP",
@@ -46,7 +46,7 @@
   "_tpl": "5c0d56a986f774449d5de529",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 300 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 300, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "5.56x45mm M855A1",
@@ -54,7 +54,7 @@
   "_tpl": "54527ac44bdc2d36668b4567",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 300 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 300, "BuyRestrictionCurrent": 0  }
 },
 {
   "_comment": "7.62x51mm M61",
@@ -62,7 +62,7 @@
   "_tpl": "5a6086ea4f39f99cd479502f",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 100 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 100, "BuyRestrictionCurrent": 0  }
 },
 {
   "_comment": "4.6x30mm AP SX",
@@ -70,7 +70,7 @@
   "_tpl": "5ba26835d4351e0035628ff5",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 300 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 300, "BuyRestrictionCurrent": 0  }
 },
 {
   "_comment": "9x19mm PBP gzh",
@@ -78,7 +78,7 @@
   "_tpl": "5efb0da7a29a85116f6ea05f",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 300 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 300, "BuyRestrictionCurrent": 0  }
 },
 {
   "_comment": "5.45x39mm PPBS gs Igolnik",
@@ -86,7 +86,7 @@
   "_tpl": "5c0d5e4486f77478390952fe",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 250 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 250, "BuyRestrictionCurrent": 0  }
 },
 {
   "_comment": "5.56x45mm M995",
@@ -94,7 +94,7 @@
   "_tpl": "59e690b686f7746c9f75e848",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 300 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 100, "BuyRestrictionCurrent": 0  }
 },
 {
   "_comment": ".300 Blackout AP",
@@ -102,7 +102,7 @@
   "_tpl": "5fd20ff893a8961fc660a954",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 300 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 150, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": ".338 Lapua Magnum AP",
@@ -110,7 +110,7 @@
   "_tpl": "5fc382a9d724d907e2077dab",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 50 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 50, "BuyRestrictionCurrent": 0  }
 },
 {
   "_comment": ".338 Lapua Magnum FMJ",
@@ -118,7 +118,7 @@
   "_tpl": "5fc275cf85fd526b824a571a",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 80 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 80, "BuyRestrictionCurrent": 0  }
 },
 {
   "_comment": ".45 ACP AP",
@@ -126,7 +126,7 @@
   "_tpl": "5efb0cabfb3e451d70735af5",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 300 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 300, "BuyRestrictionCurrent": 0  }
 },
 {
   "_comment": ".50 AE FMJ",
@@ -134,7 +134,7 @@
   "_tpl": "668fe62ac62660a5d8071446",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 150 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 80, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": ".50 BMG M33",
@@ -142,7 +142,7 @@
   "_tpl": "67dc255ee3028a8b120efc48",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 40 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 40, "BuyRestrictionCurrent": 0  }
 },
 {
   "_comment": ".50 BMG M903 SLAP",
@@ -150,7 +150,7 @@
   "_tpl": "67dc2648ba5b79876906a166",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 20 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 20, "BuyRestrictionCurrent": 0  }
 },
 {
   "_comment": "5.56x45mm SSA AP",
@@ -158,7 +158,7 @@
   "_tpl": "601949593ae8f707c4608daa",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 150 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 150, "BuyRestrictionCurrent": 0  }
 },
 {
   "_comment": "5.7x28mm SS190",
@@ -166,7 +166,7 @@
   "_tpl": "5cc80f38e4a949001152b560",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 300 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 300, "BuyRestrictionCurrent": 0  }
 },
 {
   "_comment": "7.62x54mm R BS gs",
@@ -174,7 +174,7 @@
   "_tpl": "5e023d48186a883be655e551",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 200 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 200, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "5.45x39mm BS gs",
@@ -182,7 +182,7 @@
   "_tpl": "56dff026d2720bb8668b4567",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 300 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 300, "BuyRestrictionCurrent": 0  }
 },
 {
   "_comment": "BNTI Gzhel-K body armor",
@@ -190,10 +190,7 @@
   "_tpl": "5ab8e79e86f7742d8b372e78",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {
-    "UnlimitedCount": false,
-    "StackObjectsCount": 2
-  }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0 }
 },
 {
   "_id": "af1000000000000000000002",
@@ -231,10 +228,7 @@
   "_tpl": "5b44cd8b86f774503d30cba2",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {
-    "UnlimitedCount": false,
-    "StackObjectsCount": 2
-  }
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0  }
 },
 {
   "_id": "af1000000000000000000101",
@@ -296,10 +290,7 @@
   "_tpl": "63737f448b28897f2802b874",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {
-    "UnlimitedCount": false,
-    "StackObjectsCount": 2
-  }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0  }
 },
 {
   "_id": "af1000000000000000000201",
@@ -319,10 +310,7 @@
   "_tpl": "5e4abb5086f77406975c9342",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {
-    "UnlimitedCount": false,
-    "StackObjectsCount": 1
-  }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0  }
 },
 {
   "_id": "af1000000000000000000301",
@@ -354,7 +342,7 @@
   "_tpl": "5df8a42886f77412640e2e75",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 2 }
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0  }
 },
 {
   "_comment": "ANA Tactical Alpha chest rig (MultiCam)",
@@ -362,7 +350,7 @@
   "_tpl": "67ab3ea96d7ece17bf0096f6",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 3}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 3, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "BlackRock chest rig (Khaki)",
@@ -370,7 +358,7 @@
   "_tpl": "67ab3f146d7ece17bf0096ff",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 3}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 3, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "LBT-1961A Load Bearing Chest Rig (Goons Edition)",
@@ -378,7 +366,7 @@
   "_tpl": "628baf0b967de16aab5a4f36",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 3}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 3, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "CQC Osprey MK4A plate carrier (Protection, MTP)",
@@ -386,7 +374,7 @@
   "_tpl": "60a3c68c37ea821725773ef5",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 1}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_id": "b00000000000000000000405",
@@ -436,7 +424,7 @@
   "_tpl": "5c0e774286f77468413cc5b2",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 1}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Gruppa 99 T30 backpack (MultiCam)",
@@ -444,7 +432,7 @@
   "_tpl": "62a1b7fbc30cfa1d366af586",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 3}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 3, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "ANA Tactical Beta 2 Battle backpack (Olive Drab)",
@@ -452,7 +440,7 @@
   "_tpl": "5b44c6ae86f7742d1627baea",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 3}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 3, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "6Sh118 raid backpack (EMR)",
@@ -460,7 +448,7 @@
   "_tpl": "5df8a4d786f77412672a1e3b",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 1}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "5.11 Tactical RUSH 100 backpack (Black)",
@@ -468,7 +456,7 @@
   "_tpl": "67458730df3c1da90b0b052b",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 1}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Crye AirFrame Helmet (Tan)",
@@ -476,7 +464,7 @@
   "_tpl": "5c17a7ed2e2216152142459c",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 3}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 3, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Crye AirFrame Chops",
@@ -512,7 +500,7 @@
   "_tpl": "5ac8d6885acfc400180ae7b0",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 3}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 3, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "FAST MT Side Armor",
@@ -548,7 +536,7 @@
   "_tpl": "5e01ef6886f77445f643baa4",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 3}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 3, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "EXFIL Ear Covers",
@@ -584,7 +572,7 @@
   "_tpl": "675956062f6ddfe8ff0e2806",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 3}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 3, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Norotos Titanium Advanced Tactical Mount",
@@ -630,7 +618,7 @@
   "_tpl": "5f60b34a41e30a4ab12a6947",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 3}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 3, "BuyRestrictionCurrent": 0}
 },
 {
   "_comment": "Caiman Ballistic Mandible Guard",
@@ -674,7 +662,7 @@
   "_tpl": "5ac8d6885acfc400180ae7b0",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 3}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 3, "BuyRestrictionCurrent": 0}
 },
 {
   "_comment": "Ops-Core SLAAP Armor Plate (Tan)",
@@ -711,7 +699,7 @@
   "_tpl": "67a5c61c7f52620c5b05b4d8",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 5}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0}
 },
 {
   "_comment": "Atomic Defense CQCM Ballistic Mask (El Día de Muertos)",
@@ -719,7 +707,7 @@
   "_tpl": "67a5c657782ce4655104db16",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 5}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0}
 },
 {
   "_comment": "Atomic Defense CQCM Ballistic Mask (Scars)",
@@ -727,7 +715,7 @@
   "_tpl": "67a5c5df782ce4655104db14",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 5}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0}
 },
 {
   "_comment": "Atomic Defense CQCM Ballistic Mask (Stop Me)",
@@ -735,7 +723,7 @@
   "_tpl": "67a5c5b6dfdf568c9009af66",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 5}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0}
 },
 {
   "_comment": "Balaclava (Luxury)",
@@ -743,7 +731,7 @@
   "_tpl": "67a9cd6ecade15e0f00123b8",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 10 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 10, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Balaclava (Smile)",
@@ -751,7 +739,7 @@
   "_tpl": "67a9ea98de7fb0f19e077da8",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 10 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 10, "BuyRestrictionCurrent": 0}
 },
 {
   "_comment": "Balaclava (Yellow)",
@@ -759,7 +747,7 @@
   "_tpl": "67a9cd55c2a2d940930aec86",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 10 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 10, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Vengeful Zryachiy's balaclava",
@@ -767,7 +755,7 @@
   "_tpl": "6530e8587cbfc1e309011e37",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Zryachiy's balaclava",
@@ -775,7 +763,7 @@
   "_tpl": "63626d904aa74b8fe30ab426",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 3 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 3, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Tagilla's welding mask (UBEY)",
@@ -783,7 +771,7 @@
   "_tpl": "60a7ad2a2198820d95707a2e",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 2 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Tagilla's welding mask (Gorilla)",
@@ -791,7 +779,7 @@
   "_tpl": "60a7ad3a0c5cb24b0134664a",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 2 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Custom Desert Eagle L6 .50 AE Preset",
@@ -799,7 +787,7 @@
   "_tpl": "669fa39b48fc9f8db6035a0c",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Deagle Barrel",
@@ -849,7 +837,7 @@
   "_tpl": "5a7ae0c351dfba0017554310",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "ZEV Tech HEX RMR Slide",
@@ -906,7 +894,7 @@
   "_tpl": "5447a9cd4bdc2dbd208b4567",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 2}
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0}
 },
 {
   "_id": "ff0000000000000000000301",
@@ -1044,8 +1032,7 @@
   "upd": {
     "Repairable": { "Durability": 100, "MaxDurability": 100 },
     "FireMode": { "FireMode": "single" },
-    "UnlimitedCount": false,
-    "StackObjectsCount": 2
+    "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0
   }
 },
 {
@@ -1200,8 +1187,7 @@
     "Repairable": { "Durability": 100, "MaxDurability": 100 },
     "FireMode": { "FireMode": "single" },
     "Foldable": { "Folded": false },
-    "UnlimitedCount": false,
-    "StackObjectsCount": 2
+   "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0
   }
 },
 {
@@ -1312,6 +1298,308 @@
   }
 },
 {
+  "_comment": "Custom RSASS Preset",
+  "_id": "ff000000000000000004001a",
+  "_tpl": "5a367e5dc4a282000e49738f",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "Repairable": { "Durability": 100, "MaxDurability": 100 },
+    "FireMode": { "FireMode": "single" },
+    "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0
+  }
+},
+{
+  "_comment": "Pistol Grip",
+  "_id": "ff000000000000000004001b",
+  "_tpl": "59db3acc86f7742a2c4ab912",
+  "parentId": "ff000000000000000004001a",
+  "slotId": "mod_pistol_grip"
+},
+{
+  "_comment": "Magazine",
+  "_id": "ff000000000000000004001c",
+  "_tpl": "6761770e48fa5c377e06fc3c",
+  "parentId": "ff000000000000000004001a",
+  "slotId": "mod_magazine"
+},
+{
+  "_comment": "Stock",
+  "_id": "ff000000000000000004001d",
+  "_tpl": "638de3603a1a4031d8260b8c",
+  "parentId": "ff000000000000000004001a",
+  "slotId": "mod_stock"
+},
+{
+  "_comment": "Handguard",
+  "_id": "ff000000000000000004001e",
+  "_tpl": "5a329052c4a28200741e22d3",
+  "parentId": "ff000000000000000004001a",
+  "slotId": "mod_handguard"
+},
+{
+  "_comment": "Barrel",
+  "_id": "ff000000000000000004001f",
+  "_tpl": "5a34fae7c4a2826c6e06d760",
+  "parentId": "ff000000000000000004001a",
+  "slotId": "mod_barrel"
+},
+{
+  "_comment": "Primary Scope",
+  "_id": "ff0000000000000000040020",
+  "_tpl": "5d1b5e94d7ad1a2b865a96b0",
+  "parentId": "ff000000000000000004001a",
+  "slotId": "mod_scope"
+},
+{
+  "_comment": "Rear Sight",
+  "_id": "ff0000000000000000040021",
+  "_tpl": "5c18b9192e2216398b5a8104",
+  "parentId": "ff000000000000000004001a",
+  "slotId": "mod_sight_rear"
+},
+{
+  "_comment": "Stock Extension",
+  "_id": "ff0000000000000000040022",
+  "_tpl": "6516e971a3d4c6497930b450",
+  "parentId": "ff000000000000000004001d",
+  "slotId": "mod_stock_000"
+},
+{
+  "_comment": "Foregrip Base",
+  "_id": "ff0000000000000000040023",
+  "_tpl": "5c0102b20db834001d23eebc",
+  "parentId": "ff000000000000000004001e",
+  "slotId": "mod_foregrip"
+},
+{
+  "_comment": "Side Scope Mount",
+  "_id": "ff0000000000000000040024",
+  "_tpl": "5649a2464bdc2d91118b45a8",
+  "parentId": "ff000000000000000004001e",
+  "slotId": "mod_scope"
+},
+{
+  "_comment": "Top Rail Mount",
+  "_id": "ff0000000000000000040025",
+  "_tpl": "5c0102aa0db834001b734ba1",
+  "parentId": "ff000000000000000004001e",
+  "slotId": "mod_mount_003"
+},
+{
+  "_comment": "Muzzle Device",
+  "_id": "ff0000000000000000040026",
+  "_tpl": "615d8eb350224f204c1da1cf",
+  "parentId": "ff000000000000000004001f",
+  "slotId": "mod_muzzle"
+},
+{
+  "_comment": "Gas Block",
+  "_id": "ff0000000000000000040027",
+  "_tpl": "5a34fbadc4a28200741e230a",
+  "parentId": "ff000000000000000004001f",
+  "slotId": "mod_gas_block"
+},
+{
+  "_comment": "Vertical Grip",
+  "_id": "ff0000000000000000040028",
+  "_tpl": "655df24fdf80b12750626d0a",
+  "parentId": "ff0000000000000000040023",
+  "slotId": "mod_foregrip"
+},
+{
+  "_comment": "Micro Optic",
+  "_id": "ff0000000000000000040029",
+  "_tpl": "609bab8b455afd752b2e6138",
+  "parentId": "ff0000000000000000040024",
+  "slotId": "mod_scope"
+},
+{
+  "_comment": "Flashlight",
+  "_id": "ff000000000000000004002a",
+  "_tpl": "646f62fee779812413011ab7",
+  "parentId": "ff0000000000000000040025",
+  "slotId": "mod_tactical"
+},
+{
+  "_comment": "Front Sight",
+  "_id": "ff000000000000000004002b",
+  "_tpl": "5c18b90d2e2216152142466b",
+  "parentId": "ff0000000000000000040027",
+  "slotId": "mod_sight_front"
+},
+
+{
+  "_comment": "Custom SCAR-H Preset",
+  "_id": "ff0000000000000000040100",
+  "_tpl": "676176d362e0497044079f4c",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": {
+    "Repairable": { "Durability": 100, "MaxDurability": 100 },
+    "FireMode": { "FireMode": "single" },
+    "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0
+  }
+},
+{
+  "_comment": "Pistol Grip",
+  "_id": "ff0000000000000000040101",
+  "_tpl": "5d025cc1d7ad1a53845279ef",
+  "parentId": "ff0000000000000000040100",
+  "slotId": "mod_pistol_grip"
+},
+{
+  "_comment": "Magazine",
+  "_id": "ff0000000000000000040102",
+  "_tpl": "6761770e48fa5c377e06fc3c",
+  "parentId": "ff0000000000000000040100",
+  "slotId": "mod_magazine"
+},
+{
+  "_comment": "Receiver",
+  "_id": "ff0000000000000000040103",
+  "_tpl": "6165adcdd3a39d50044c120f",
+  "parentId": "ff0000000000000000040100",
+  "slotId": "mod_reciever"
+},
+{
+  "_comment": "Stock",
+  "_id": "ff0000000000000000040104",
+  "_tpl": "61816734d8e3106d9806c1f3",
+  "parentId": "ff0000000000000000040100",
+  "slotId": "mod_stock"
+},
+{
+  "_comment": "Charging Handle",
+  "_id": "ff0000000000000000040105",
+  "_tpl": "6181688c6c780c1e710c9b04",
+  "parentId": "ff0000000000000000040100",
+  "slotId": "mod_charge"
+},
+{
+  "_comment": "Primary Scope Mount",
+  "_id": "ff0000000000000000040106",
+  "_tpl": "5b2389515acfc4771e1be0c0",
+  "parentId": "ff0000000000000000040103",
+  "slotId": "mod_scope"
+},
+{
+  "_comment": "Barrel",
+  "_id": "ff0000000000000000040107",
+  "_tpl": "6183b084a112697a4b3a6e6c",
+  "parentId": "ff0000000000000000040103",
+  "slotId": "mod_barrel"
+},
+{
+  "_comment": "Rear Sight",
+  "_id": "ff0000000000000000040108",
+  "_tpl": "5c18b9192e2216398b5a8104",
+  "parentId": "ff0000000000000000040103",
+  "slotId": "mod_sight_rear"
+},
+{
+  "_comment": "Top Rail",
+  "_id": "ff0000000000000000040109",
+  "_tpl": "61816df1d3a39d50044c139e",
+  "parentId": "ff0000000000000000040103",
+  "slotId": "mod_mount_000"
+},
+{
+  "_comment": "Right Rail",
+  "_id": "ff000000000000000004010a",
+  "_tpl": "61816dfa6ef05c2ce828f1ad",
+  "parentId": "ff0000000000000000040103",
+  "slotId": "mod_mount_001"
+},
+{
+  "_comment": "Left Rail",
+  "_id": "ff000000000000000004010b",
+  "_tpl": "5649a2464bdc2d91118b45a8",
+  "parentId": "ff0000000000000000040103",
+  "slotId": "mod_mount_002"
+},
+{
+  "_comment": "Stock Adapter",
+  "_id": "ff000000000000000004010c",
+  "_tpl": "66ffc2bd132225f0fe0611d8",
+  "parentId": "ff0000000000000000040104",
+  "slotId": "mod_stock_001"
+},
+{
+  "_comment": "Stock Pad",
+  "_id": "ff000000000000000004010d",
+  "_tpl": "618167441cb55961fa0fdc71",
+  "parentId": "ff0000000000000000040104",
+  "slotId": "mod_stock_002"
+},
+{
+  "_comment": "Optic",
+  "_id": "ff000000000000000004010e",
+  "_tpl": "5b3b99475acfc432ff4dcbee",
+  "parentId": "ff0000000000000000040106",
+  "slotId": "mod_scope_000"
+},
+{
+  "_comment": "Muzzle Device",
+  "_id": "ff000000000000000004010f",
+  "_tpl": "6130c43c67085e45ef1405a1",
+  "parentId": "ff0000000000000000040107",
+  "slotId": "mod_muzzle"
+},
+{
+  "_comment": "Front Sight",
+  "_id": "ff0000000000000000040110",
+  "_tpl": "61816fcad92c473c770215cc",
+  "parentId": "ff0000000000000000040107",
+  "slotId": "mod_sight_front"
+},
+{
+  "_comment": "Foregrip",
+  "_id": "ff0000000000000000040111",
+  "_tpl": "5a7dbfc1159bd40016548fde",
+  "parentId": "ff0000000000000000040109",
+  "slotId": "mod_foregrip"
+},
+{
+  "_comment": "Foregrip Mount",
+  "_id": "ff0000000000000000040112",
+  "_tpl": "61965d9058ef8c428c287e0d",
+  "parentId": "ff0000000000000000040109",
+  "slotId": "mod_mount"
+},
+{
+  "_comment": "Laser / Light",
+  "_id": "ff0000000000000000040113",
+  "_tpl": "544909bb4bdc2d6f028b4577",
+  "parentId": "ff000000000000000004010a",
+  "slotId": "mod_tactical_000",
+  "upd": {
+    "Light": { "IsActive": true, "SelectedMode": 0 }
+  }
+},
+{
+  "_comment": "Side Scope",
+  "_id": "ff0000000000000000040114",
+  "_tpl": "577d128124597739d65d0e56",
+  "parentId": "ff000000000000000004010b",
+  "slotId": "mod_scope"
+},
+{
+  "_comment": "Suppressor",
+  "_id": "ff0000000000000000040115",
+  "_tpl": "5dfa3d2b0dee1b22f862eade",
+  "parentId": "ff000000000000000004010f",
+  "slotId": "mod_muzzle"
+},
+{
+  "_comment": "Secondary Optic",
+  "_id": "ff0000000000000000040116",
+  "_tpl": "577d141e24597739c5255e01",
+  "parentId": "ff0000000000000000040114",
+  "slotId": "mod_scope"
+},
+
+{
   "_comment": "Custom P90 Preset",
   "_id": "ff000000000000000000c001",
   "_tpl": "5cc82d76e24e8d00134b4b83",
@@ -1320,8 +1608,7 @@
   "upd": {
     "Repairable": { "Durability": 100, "MaxDurability": 100 },
     "FireMode": { "FireMode": "single" },
-    "UnlimitedCount": false,
-    "StackObjectsCount": 3
+    "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 3, "BuyRestrictionCurrent": 0
   }
 },
 {
@@ -1412,8 +1699,7 @@
   "upd": {
     "Repairable": { "Durability": 100, "MaxDurability": 100 },
     "FireMode": { "FireMode": "single" },
-    "UnlimitedCount": false,
-    "StackObjectsCount": 1
+    "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0
   }
 },
 {
@@ -1562,7 +1848,7 @@
       "_tpl": "5c1bc5af2e221602b412949b",
       "parentId": "hideout",
       "slotId": "hideout",
-      "upd": { "UnlimitedCount": false, "StackObjectsCount": 10 }
+      "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 10, "BuyRestrictionCurrent": 0 }
     },
     {
       "_comment": "AR-15 HK Ergo PSG-1 Style Pistol Grip",
@@ -1570,7 +1856,7 @@
       "_tpl": "5d025cc1d7ad1a53845279ef",
       "parentId": "hideout",
       "slotId": "hideout",
-      "upd": { "UnlimitedCount": false, "StackObjectsCount": 8 }
+      "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 8, "BuyRestrictionCurrent": 0 }
     },
     {
       "_comment": "SIG Sauer BRAVO4 4x30 Scope",
@@ -1578,7 +1864,7 @@
       "_tpl": "57adff4f24597737f373b6e6",
       "parentId": "hideout",
       "slotId": "hideout",
-      "upd": { "UnlimitedCount": false, "StackObjectsCount": 10 }
+      "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 4, "BuyRestrictionCurrent": 0 }
     },
     {
       "_comment": "Leupold Mark 4 HAMR 4x24 DeltaPoint Hybrid Scope",
@@ -1586,7 +1872,7 @@
       "_tpl": "544a3a774bdc2d3a388b4567",
       "parentId": "hideout",
       "slotId": "hideout",
-      "upd": { "UnlimitedCount": false, "StackObjectsCount": 10 }
+      "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 4, "BuyRestrictionCurrent": 0 }
     },
     {
       "_comment": "Leupold DeltaPoint Reflex Sight",
@@ -1594,7 +1880,7 @@
       "_tpl": "58d268fc86f774111273f8c2",
       "parentId": "hideout",
       "slotId": "hideout",
-      "upd": { "UnlimitedCount": false, "StackObjectsCount": 10 }
+      "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 4, "BuyRestrictionCurrent": 0 }
     },
     {
       "_comment": "Schmidt & Bender PM II 1-8x24 30mm Riflescope",
@@ -1602,7 +1888,7 @@
       "_tpl": "617151c1d92c473c770214ab",
       "parentId": "hideout",
       "slotId": "hideout",
-      "upd": { "UnlimitedCount": false, "StackObjectsCount": 10 }
+      "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0 }
     },
     {
       "_comment": "AR-15 Strike Industries Advanced Receiver Extension (Red)",
@@ -1610,7 +1896,7 @@
       "_tpl": "5c793fc42e221600114ca25d",
       "parentId": "hideout",
       "slotId": "hideout",
-      "upd": { "UnlimitedCount": false, "StackObjectsCount": 10 }
+      "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0 }
     },
     {
       "_comment": "AR-15 Strike Industries Advanced Receiver Extension Buffer Tube",
@@ -1618,7 +1904,7 @@
       "_tpl": "5c793fb92e221644f31bfb64",
       "parentId": "hideout",
       "slotId": "hideout",
-      "upd": { "UnlimitedCount": false, "StackObjectsCount": 15 }
+      "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 8, "BuyRestrictionCurrent": 0 }
     },
     {
       "_comment": "AAC 762-SDN-6 Multi-Caliber Sound Suppressor",
@@ -1626,7 +1912,7 @@
       "_tpl": "5a34fe59c4a282000b1521a2",
       "parentId": "hideout",
       "slotId": "hideout",
-      "upd": { "UnlimitedCount": false, "StackObjectsCount": 10 }
+      "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0 }
     },
     {
       "_comment": "SA58/FAL X Products X-FAL 50-Round Drum Magazine",
@@ -1634,7 +1920,7 @@
       "_tpl": "5b7bef9c5acfc43d102852ec",
       "parentId": "hideout",
       "slotId": "hideout",
-      "upd": { "UnlimitedCount": false, "StackObjectsCount": 8 }
+      "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0}
     },
     {
       "_comment": "Glock 9x19 SGM Tactical 50-Round Drum Magazine",
@@ -1642,7 +1928,7 @@
       "_tpl": "5a718f958dc32e00094b97e7",
       "parentId": "hideout",
       "slotId": "hideout",
-      "upd": { "UnlimitedCount": false, "StackObjectsCount": 8 }
+      "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0 }
     },
     {
       "_comment": "AR-15 5.56x45 Magpul PMAG D-60 60-Round Magazine",
@@ -1650,7 +1936,7 @@
       "_tpl": "59c1383d86f774290a37e0ca",
       "parentId": "hideout",
       "slotId": "hideout",
-      "upd": { "UnlimitedCount": false, "StackObjectsCount": 6 }
+      "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0 }
     },
 
 {
@@ -1659,7 +1945,7 @@
   "_tpl": "5a1eaa87fcdbcb001865f75e",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 2 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope",
@@ -1667,7 +1953,7 @@
   "_tpl": "5d1b5e94d7ad1a2b865a96b0",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 2 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "EOTech Vudu 1-6x24 30mm riflescope",
@@ -1675,7 +1961,7 @@
   "_tpl": "5b3b99475acfc432ff4dcbee",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 10 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Fortis Shift tactical foregrip",
@@ -1683,7 +1969,7 @@
   "_tpl": "59f8a37386f7747af3328f06",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 10 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Zenit RK-1 tactical foregrip on B-25U mount",
@@ -1691,7 +1977,7 @@
   "_tpl": "5c1cd46f2e22164bef5cfedb",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 10 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 10, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Stark SE-5 Express Forward foregrip",
@@ -1699,7 +1985,7 @@
   "_tpl": "5b057b4f5acfc4771e1bd3e9",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 5 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "AK-74 Hexagon Wafflemaker 5.45x39 sound suppressor",
@@ -1707,7 +1993,7 @@
   "_tpl": "615d8f8567085e45ef1409ca",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 4 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 4, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "SureFire SOCOM556-MINI MONSTER 5.56x45 sound suppressor",
@@ -1715,7 +2001,7 @@
   "_tpl": "55d6190f4bdc2d87028b4567",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 4 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 4, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "AR-15 5.56x45 Beta C-Mag 100-round drum magazine",
@@ -1723,7 +2009,7 @@
   "_tpl": "6761765f1f08ed5e8800b7a6",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 4 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 4, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "AI AXMC .338 LM 10-round magazine",
@@ -1731,7 +2017,7 @@
   "_tpl": "628120fd5631d45211793c9f",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 4 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 4, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "AK 7.62x39 X Products X-47 50-round drum magazine",
@@ -1739,7 +2025,7 @@
   "_tpl": "5cfe8010d7ad1a59283b14c6",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 3 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 3, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "AK-74 5.45x39 6L31 60-round magazine",
@@ -1747,7 +2033,7 @@
   "_tpl": "55d482194bdc2d1d4e8b456b",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 3 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 3, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "AR-15 5.56x45 SureFire MAG5-60 60-round magazine",
@@ -1755,7 +2041,7 @@
   "_tpl": "544a37c44bdc2d25388b4567",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 2 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "SOK-12 12ga MD Arms 20-round drum magazine",
@@ -1763,7 +2049,7 @@
   "_tpl": "674fe8f6f34d761ab8020cc8",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 4 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 4, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "UZI 9x19 Beta C-Mag 100-round drum magazine",
@@ -1771,7 +2057,7 @@
   "_tpl": "676176a162e0497044079f46",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 5 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "VSS/VAL 9x39 SR3M.130 30-round magazine",
@@ -1779,7 +2065,7 @@
   "_tpl": "5a9e81fba2750c00164f6b11",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 5 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0}
 },
 {
   "_comment": "Armasight N-15 Night Vision Goggles",
@@ -1787,7 +2073,7 @@
   "_tpl": "5c066e3a0db834001b7353f0",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 5 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0}
 },
 {
   "_comment": "L3Harris GPNVG-18 night vision goggles",
@@ -1795,7 +2081,7 @@
   "_tpl": "5c0558060db834001b735271",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 2 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Red Rebel ice pick",
@@ -1803,7 +2089,7 @@
   "_tpl": "5c0126f40db834002a125382",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "TerraGroup Labs keycard",
@@ -1811,7 +2097,7 @@
   "_tpl": "5c94bbff86f7747ee735c08f",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Dorm room 314 marked key",
@@ -1819,7 +2105,7 @@
   "_tpl": "5780cf7f2459777de4559322",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Object #21WS keycard",
@@ -1827,7 +2113,7 @@
   "_tpl": "5e42c83786f7742a021fdf3c",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Health Resort blue tape key",
@@ -1835,7 +2121,7 @@
   "_tpl": "5eff09cd30a7dc22fd1ddfed",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Shturman's stash key",
@@ -1843,7 +2129,7 @@
   "_tpl": "5d08d21286f774736e7c94c3",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "RB-ST key",
@@ -1851,7 +2137,7 @@
   "_tpl": "5d9f1fa686f774726974a992",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Labrys access keycard",
@@ -1859,7 +2145,7 @@
   "_tpl": "679b9819a2f2dd4da9023512",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "GPU",
@@ -1867,7 +2153,7 @@
   "_tpl": "57347ca924597744596b4e71",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 2 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 2, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Physical Bitcoin",
@@ -1875,7 +2161,7 @@
   "_tpl": "59faff1d86f7746c51718c9c",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": {"UnlimitedCount": false, "StackObjectsCount": 5 }
+  "upd": {"UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "M.U.L.E.",
@@ -1883,7 +2169,7 @@
   "_tpl": "5ed51652f6c34d2cc26336a1",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 5 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "SJ6",
@@ -1891,7 +2177,7 @@
   "_tpl": "5c0e531d86f7747fa23f4d42",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 5 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Obdolbos",
@@ -1899,7 +2185,7 @@
   "_tpl": "5ed5166ad380ab312177c100",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 5 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "eTG-change",
@@ -1907,7 +2193,7 @@
   "_tpl": "5c0e534186f7747fa1419867",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 5 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 5, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "THICC item case",
@@ -1915,7 +2201,7 @@
   "_tpl": "5c0a840b86f7742ffa4f2482",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "THICC weapon case",
@@ -1923,7 +2209,7 @@
   "_tpl": "5b6d9ce188a4501afc1b2b25",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Keycard holder case",
@@ -1931,7 +2217,7 @@
   "_tpl": "619cbf9e0a7c3a1a2731940a",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Key tool",
@@ -1939,7 +2225,7 @@
   "_tpl": "59fafd4b86f7745ca07e1232",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "S I C C organizational pouch",
@@ -1947,7 +2233,7 @@
   "_tpl": "5d235bb686f77443f4331278",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
 {
   "_comment": "Item case",
@@ -1955,7 +2241,7 @@
   "_tpl": "59fb042886f7746c5005a7b2",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
 },
  {
   "_comment": "THICC item case",
@@ -1963,12 +2249,35 @@
   "_tpl": "5c0a840b86f7742ffa4f2482",
   "parentId": "hideout",
   "slotId": "hideout",
-  "upd": { "UnlimitedCount": false, "StackObjectsCount": 1 }
+  "upd": { "UnlimitedCount": true,"StackObjectsCount": 99999999, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
+},
+
+
+
+{
+  "_comment": "Santa Hat",
+  "_id": "cc0000000000000000000001",
+  "_tpl": "5a43957686f7742a2c2f11b0",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": { "UnlimitedCount": false, "StackObjectsCount": 5 }
+},
+{
+  "_comment": "Christmas Gift",
+  "_id": "cc0000000000000000000002",
+  "_tpl": "63a898a328e385334e0640a5",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": { "UnlimitedCount": false, "StackObjectsCount": 5 }
+},
+{
+  "_comment": "Fake White Beard",
+  "_id": "cc0000000000000000000004",
+  "_tpl": "5c1a1e3f2e221602b66cc4c2",
+  "parentId": "hideout",
+  "slotId": "hideout",
+  "upd": { "UnlimitedCount": false, "StackObjectsCount": 5 }
 }
-
-
-
-
 
 
 
@@ -2033,10 +2342,12 @@
 "ff0000000000000000000100": [[{ "count": 500, "_tpl": "5696686a4bdc2da3298b456a" }]],
 "ff0000000000000000000200": [[{ "count": 600, "_tpl": "5696686a4bdc2da3298b456a" }]],
 "ff0000000000000000000300": [[{ "count": 3200, "_tpl": "5696686a4bdc2da3298b456a" }]],
-"ff0000000000000000000400": [[{ "count": 2500, "_tpl": "5696686a4bdc2da3298b456a" }]] ,
+"ff0000000000000000000400": [[{ "count": 2500, "_tpl": "5696686a4bdc2da3298b456a" }]],
 "ff0000000000000000040000": [[{ "count": 6500, "_tpl": "5696686a4bdc2da3298b456a" }]],
 "ff000000000000000000c001": [[{ "count": 2000, "_tpl": "5696686a4bdc2da3298b456a" }]],
-"ff00010000000000000000a1": [[{ "count": 4000, "_tpl": "569668774bdc2da2298b4568" }]],
+"ff00010000000000000000a1": [[{ "count": 4000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+"ff000000000000000004001a": [[{ "count": 7000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+"ff0000000000000000040100":[[{ "count": 5000,   "_tpl":"5696686a4bdc2da3298b456a" }]],
 "ab0001000000000000000001": [[{ "count": 399, "_tpl": "5696686a4bdc2da3298b456a" }]],
 "ab0001000000000000000002": [[{ "count": 350, "_tpl": "5696686a4bdc2da3298b456a" }]],
 "ab0001000000000000000003": [[{ "count": 380, "_tpl": "5696686a4bdc2da3298b456a" }]],
@@ -2049,8 +2360,8 @@
 "ab000100000000000000000a": [[{ "count": 400, "_tpl": "5696686a4bdc2da3298b456a" }]],
 "ab000100000000000000000b": [[{ "count": 600, "_tpl": "5696686a4bdc2da3298b456a" }]],
 "ab000100000000000000000c": [[{ "count": 400, "_tpl": "5696686a4bdc2da3298b456a" }]],
-"ab000100000000000000000d": [[{ "count": 5000, "_tpl": "5696686a4bdc2da3298b456a" }]],
-"ab000100000000000000000e": [[{ "count": 7000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+"ab000100000000000000000d": [[{ "count": 3000, "_tpl": "5696686a4bdc2da3298b456a" }]],
+"ab000100000000000000000e": [[{ "count": 5000, "_tpl": "5696686a4bdc2da3298b456a" }]],
 "ab000100000000000000000f": [[{ "count": 900, "_tpl": "5696686a4bdc2da3298b456a" }]],
 "ab0001000000000000000010": [[{ "count": 146, "_tpl": "5696686a4bdc2da3298b456a" }]],
 "ab0001000000000000000011": [[{ "count": 500, "_tpl": "5696686a4bdc2da3298b456a" }]],
@@ -2087,7 +2398,16 @@
 "ca0001000000000000000004": [[{ "count": 4000, "_tpl": "5696686a4bdc2da3298b456a" }]],
 "ca0001000000000000000005": [[{ "count": 17000, "_tpl": "5696686a4bdc2da3298b456a" }]],
 "ca0001000000000000000006": [[{ "count": 25000, "_tpl": "5696686a4bdc2da3298b456a" }]],
-"ca0001000000000000000007": [[{ "count": 20, "_tpl": "57347ca924597744596b4e71" }]]
+"ca0001000000000000000007": [[{ "count": 20, "_tpl": "57347ca924597744596b4e71" }]],
+
+"cc0000000000000000000001":[[{ "count":2,"_tpl":"5696686a4bdc2da3298b456a" }]],
+"cc0000000000000000000002":[[{ "count":5,"_tpl":"5696686a4bdc2da3298b456a" }]],
+"cc0000000000000000000004":[[{ "count":38,"_tpl":"5696686a4bdc2da3298b456a" }]]
+
+
+
+
+
 
 
 
@@ -2159,6 +2479,8 @@
     "ff0000000000000000040000": 1,
     "ff000000000000000000c001": 1,
     "ff00010000000000000000a1": 1,
+    "ff000000000000000004001a": 1,
+    "ff0000000000000000040100": 1,
     "ab0001000000000000000001": 1,
     "ab0001000000000000000002": 1,
     "ab0001000000000000000003": 1,
@@ -2209,11 +2531,19 @@
     "ca0001000000000000000004": 1,
     "ca0001000000000000000005": 1,
     "ca0001000000000000000006": 1,
-    "ca0001000000000000000007": 1
+    "ca0001000000000000000007": 1,
+  
+    "cc0000000000000000000001": 1,
+    "cc0000000000000000000002": 1,
+    "cc0000000000000000000004": 1
+
+
+
+
+
   
 
 
 
    }
 }
-
