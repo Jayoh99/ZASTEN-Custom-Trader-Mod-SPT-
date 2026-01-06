@@ -1,0 +1,98 @@
+{
+  "Zasten_Obdols": [
+    {
+      "BuffType": "StaminaRate",
+      "Chance": 1,
+      "Delay": 1,
+      "Duration": 1800,
+      "Value": 0.1,
+      "AbsoluteValue": false,
+      "SkillName": ""
+    },
+    {
+      "BuffType": "WeightLimit",
+      "Chance": 1,
+      "Delay": 1,
+      "Duration": 1800,
+      "Value": 0.6,
+      "AbsoluteValue": false,
+      "SkillName": ""
+    },
+    {
+      "BuffType": "MaxStamina",
+      "Chance": 1,
+      "Delay": 1,
+      "Duration": 1800,
+      "Value": -20,
+      "AbsoluteValue": true,
+      "SkillName": ""
+    },
+    {
+      "BuffType": "HealthRate",
+      "Chance": 1,
+      "Delay": 1,
+      "Duration": 1800,
+      "Value": -0.5,
+      "AbsoluteValue": true,
+      "SkillName": ""
+    },
+    {
+      "BuffType": "HydrationRate",
+      "Chance": 1,
+      "Delay": 1,
+      "Duration": 1800,
+      "Value": -0.5,
+      "AbsoluteValue": true,
+      "SkillName": ""
+    },
+    {
+      "BuffType": "EnergyRate",
+      "Chance": 1,
+      "Delay": 1,
+      "Duration": 1800,
+      "Value": -0.5,
+      "AbsoluteValue": true,
+      "SkillName": ""
+    },
+   {
+  "BuffType": "SkillRate",
+  "Chance": 1,
+  "Delay": 0,
+  "Duration": 1800,
+  "Value": 30,
+  "AbsoluteValue": true,
+  "SkillName": "Attention"
+   },
+  {
+  "BuffType": "SkillRate",
+  "Chance": 1,
+  "Delay": 0,
+  "Duration": 1800,
+  "Value": 30,
+  "AbsoluteValue": true,
+  "SkillName": "Perception"
+},
+{
+  "BuffType": "SkillRate",
+  "Chance": 1,
+  "Delay": 0,
+  "Duration": 1800,
+  "Value": 30,
+  "AbsoluteValue": true,
+  "SkillName": "Strength"
+},
+{
+  "BuffType": "SkillRate",
+  "Chance": 1,
+  "Delay": 0,
+  "Duration": 1800,
+  "Value": 30,
+  "AbsoluteValue": true,
+  "SkillName": "Endurance"
+}
+
+
+
+
+  ]
+}

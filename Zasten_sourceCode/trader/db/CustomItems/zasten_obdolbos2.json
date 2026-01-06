@@ -1,0 +1,72 @@
+{
+  "694a21bedb385a0ce5095324": {
+    "itemTplToClone": "637b60c3b7afa97bfc3d7001",
+    "parentId": "5448f3a64bdc2d60728b456a",
+    "handbookParentId": "5b47574386f77428ca22b33a",
+
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "medUseTime": 3,
+      "MaxHpResource": 1,
+      "RarityPvE": "Superrare",
+
+      "StimulatorBuffs": "Zasten_Obdols"
+    },
+
+    "locales": {
+      "en": {
+        "name": "Obdolbos-Z cocktail injector",
+        "shortName": "Obdolbos-Z",
+        "description": "A heavily modified Obdolbos stimulant using a custom Zasten cocktail."
+      }
+    },
+
+    "fleaPriceRoubles": 87888,
+    "handbookPriceRoubles": 180125,
+
+  "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "addtoTraders": false,
+    "staticLootContainers": [
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_AIRDROP_MEDICAL_CRATE"
+      },
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      },
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_LAB_TECHNICIAN_BODY"
+      },
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06"
+      },
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06_ADV"
+      },
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_MEDCASE"
+      },
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE"
+      }
+    ]
+  }
+}
