@@ -1,0 +1,27 @@
+[
+  {
+    "ZoneId": "deadscav_customs",
+    "ZoneName": "deadscav_customs",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-271.3381",
+      "Y": "1.001276",
+      "Z": "-115.5753",
+      "W": "0"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0",
+      "W": "1"
+    },
+    "Scale": {
+      "X": "1",
+      "Y": "1",
+      "Z": "-3",
+      "W": "0"
+    }
+  }
+]
