@@ -1,0 +1,72 @@
+{
+  "696c4d1d2833891ede0b4f90": {
+    "itemTplToClone": "637b612fb7afa97bfc3d7005",
+    "parentId": "5448f3a64bdc2d60728b456a",
+    "handbookParentId": "5b47574386f77428ca22b33a",
+
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "medUseTime": 3,
+      "MaxHpResource": 1,
+      "RarityPvE": "Superrare",
+
+      "StimulatorBuffs": "SJ6X_Buff"
+    },
+
+    "locales": {
+      "en": {
+        "name": "SJ6-X 'Blackout'",
+        "shortName": "SJ6-X",
+        "description": "An experimental SJ6 derivative circulating through restricted medical channels. Provides extreme short-term mobility, pain suppression, and emergency trauma stabilization. Prolonged or repeated use places immense strain on the nervous system and may result in loss of motor control and rapid exhaustion."
+      }
+    },
+
+    "fleaPriceRoubles": 87888,
+    "handbookPriceRoubles": 180125,
+
+  "addtoBots": true,
+    "addtoModSlots": true,
+    "addtoStaticLootContainers": true,
+    "addtoTraders": true,
+    "staticLootContainers": [
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_DEAD_SCAV"
+      },
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_AIRDROP_MEDICAL_CRATE"
+      },
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG"
+      },
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV"
+      },
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_LAB_TECHNICIAN_BODY"
+      },
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06"
+      },
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_MEDBAG_SMU06_ADV"
+      },
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_MEDCASE"
+      },
+      {
+        "probability": 3800,
+        "containerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE"
+      }
+    ]
+  }
+}
